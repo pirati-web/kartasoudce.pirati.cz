@@ -1,0 +1,18 @@
+.head-super {
+  @apply font-alt font-bold;
+
+  letter-spacing: 0.005rem;
+  line-height: 1.4;
+}
+
+.head-main {
+  @apply font-body font-bold;
+}
+
+.head-sub {
+  @apply font-body font-normal;
+}
+
+.head-alt {
+  @apply font-body font-light;
+}
