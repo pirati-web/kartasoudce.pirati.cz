@@ -3,7 +3,7 @@
     role="banner"
     class="sitenav border-b border-brand-graylight py-4 lg:py-8 shadow-md"
   >
-    <div class="sitenav-wrap container container-auto-h">
+    <div class="sitenav-wrap container container-resp">
       <nav
         role="navigation"
         class="flex items-center content-between flex-grow"

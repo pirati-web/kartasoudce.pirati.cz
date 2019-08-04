@@ -1,11 +1,15 @@
 .btn {
-  @apply border border-brand-graylight font-medium pt-1 pb-1 pl-3 pr-3 rounded-sm text-center;
+  @apply bg-brand-graylight font-medium pt-1 pb-1 pl-3 pr-3 rounded-sm text-center w-full;
 
   display: inline-block;
   color: theme('colors.border-brand-blacksemi');
   transition: background-color 0.3s ease-in-out;
+
+  @screen md {
+    @apply w-auto;
+  }
 }
 
 .btn:hover {
-  @apply bg-brand-graylight;
+  @apply bg-brand-graymid;
 }

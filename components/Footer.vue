@@ -3,7 +3,7 @@
     role="contentinfo"
     class="footer bg-brand-blackmid text-brand-graydark"
   >
-    <div class="container container-auto-h py-8 items-start">
+    <div class="container container-resp px-4 md:px-8 py-8 items-start">
       <div class="w-1/3 text-left">
         <a href="https://www.pirati.cz" rel="noopener" target="_blank"
           ><img
@@ -26,7 +26,7 @@
 
     <div class="bg-brand-blacksemi">
       <div
-        class="container container-auto-h flex-col text-center text-brand-graydark py-8"
+        class="container container-resp flex-col text-center text-brand-graydark py-8"
       >
         <div>
           <span class="flip-x">&copy;</span>&nbsp;Piráti,&nbsp;2019. Všechna

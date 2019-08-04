@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col">
     <Header />
-    <div class="container flex-grow py-8">
+    <div class="container container-resp flex-grow py-4 md:py-8">
       <nuxt />
     </div>
     <Footer />
@@ -42,7 +42,7 @@ export default {
   head() {
     return {
       title: process.env.siteInfo.claim || 'Úvod',
-      titleTemplate: `%s | ${ process.env.siteInfo.name }`
+      titleTemplate: `%s | ${process.env.siteInfo.name}`
     }
   }
 }

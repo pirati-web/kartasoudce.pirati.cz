@@ -2,3 +2,12 @@
   display: inline-block;
   transform: matrix(-1, 0, 0, 1, 0, 0);
 }
+
+
+.container.container-resp {
+  @apply px-4;
+
+  @screen md {
+    @apply px-8;
+  }
+}

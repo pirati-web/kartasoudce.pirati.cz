@@ -14,8 +14,10 @@
   },
   "dependencies": {
     "@nuxtjs/font-awesome": "^1.0.4",
+    "chart.js": "^2.8.0",
     "nuxt": "^2.0.0",
     "vue-affix": "^0.5.2",
+    "vue-chartjs": "^3.4.2",
     "vue-scrollactive": "^0.8.0"
   },
   "devDependencies": {
