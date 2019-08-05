@@ -834,11 +834,11 @@
   }
 
   .personal-data-label {
-    @apply w-1/4;
+    @apply w-2/5;
   }
 
   .personal-data-value {
-    @apply w-3/4;
+    @apply w-3/5;
   }
 }
 
