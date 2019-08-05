@@ -127,7 +127,8 @@ export default {
   plugins: [
     { src: '~/plugins/affix', mode: 'client' },
     { src: '~/plugins/chart', mode: 'client' },
-    { src: '~/plugins/scrollactive', mode: 'client' }
+    { src: '~/plugins/scrollactive', mode: 'client' },
+    { src: '~/plugins/mq' }
   ],
   /*
    ** Nuxt.js dev-modules

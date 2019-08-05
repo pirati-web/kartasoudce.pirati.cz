@@ -15,11 +15,10 @@
     </div>
     <div class="flex flex-row">
       <no-ssr>
-        <aside class="w-1/4 hidden md:block">
+        <aside class="w-1/4 block" v-if="$mq === 'xl'">
           <affix
-            class="toc w-1/4"
+            class="toc"
             relative-element-selector="#profile-sections"
-            style="width: 300px"
           >
             <scrollactive :offset="80">
               <ul class="profile-navbar">
@@ -53,7 +52,7 @@
       </no-ssr>
       <content
         id="profile-sections"
-        class="md:border-l border-brand-graylight md:pl-8 md:w-3/4"
+        class="xl:border-l border-brand-graylight xl:pl-8 xl:w-3/4"
       >
         <section id="personal-data" class="profile-section text-xl">
           <h1 class="profile-section-headline">Osobní údaje</h1>
@@ -664,6 +663,10 @@
 
 .testimonials {
   min-height: calc(100vh - 5rem);
+}
+
+.toc {
+  width: 300px;
 }
 
 .profile-navbar {
