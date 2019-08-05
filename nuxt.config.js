@@ -128,6 +128,7 @@ export default {
     { src: '~/plugins/chart', mode: 'client' },
     { src: '~/plugins/scrollactive', mode: 'client' },
     { src: '~/plugins/smoothscroll', mode: 'client' },
+    { src: '~/plugins/tooltip', mode: 'client' },
     { src: '~/plugins/mq' }
   ],
   /*

@@ -17,6 +17,7 @@
     "chart.js": "^2.8.0",
     "chartjs-plugin-deferred": "^1.0.1",
     "nuxt": "^2.0.0",
+    "v-tooltip": "^2.0.2",
     "vue-affix": "^0.5.2",
     "vue-chartjs": "^3.4.2",
     "vue-mq": "^1.0.1",

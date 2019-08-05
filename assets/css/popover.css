@@ -1,0 +1,90 @@
+.v-popover {
+  display: inline-block;
+}
+
+.popover {
+  @apply bg-brand-graylight rounded;
+
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+}
+
+.popover-inner {
+  @apply m-4;
+
+  max-width: 30rem;
+  max-height: 20rem;
+  overflow: scroll;
+}
+
+.popover-arrow {
+  @apply border-brand-graylight;
+}
+
+.tooltip .tooltip-arrow {
+  width: 0;
+  height: 0;
+  border-style: theme('colors.brand-graylight');
+  position: absolute;
+  border-color: theme('colors.brand-graylight');
+}
+
+.tooltip[x-placement^="top"] {
+  margin-bottom: 0.25rem;
+}
+
+.tooltip[x-placement^="top"] .tooltip-arrow {
+  border-width: 0.25rem 0.25rem 0 0.25rem;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  bottom: -0.25rem;
+  left: calc(50% - 0.25rem);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tooltip[x-placement^="bottom"] {
+  margin-top: 0.25rem;
+}
+
+.tooltip[x-placement^="bottom"] .tooltip-arrow {
+  border-width: 0 0.25rem 0.25rem 0.25rem;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  top: -0.25rem;
+  left: calc(50% - 0.25rem);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.tooltip[x-placement^="right"] {
+  margin-left: 0.25rem;
+}
+
+.tooltip[x-placement^="right"] .tooltip-arrow {
+  border-width: 0.25rem 0.25rem 0.25rem 0;
+  border-left-color: transparent !important;
+  border-top-color: transparent !important;
+  border-bottom-color: transparent !important;
+  left: -0.25rem;
+  top: calc(50% - 0.25rem);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.tooltip[x-placement^="left"] {
+  margin-right: 0.25rem;
+}
+
+.tooltip[x-placement^="left"] .tooltip-arrow {
+  border-width: 0.25rem 0 0.25rem 0.25rem;
+  border-top-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  right: -0.25rem;
+  top: calc(50% - 0.25rem);
+  margin-left: 0;
+  margin-right: 0;
+}

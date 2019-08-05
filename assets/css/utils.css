@@ -11,3 +11,7 @@
     @apply px-8;
   }
 }
+
+*:focus {
+  outline: none !important;
+}

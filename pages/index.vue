@@ -151,6 +151,75 @@
             <section class="profile-section">
               <h1 id="major-decisions" class="profile-section-headline">
                 Významná rozhodnutí
+                <no-ssr>
+                  <v-popover>
+                    <button class="text-base ml-1 align-text-top">
+                      <i class="fa fa-question-circle" />
+                    </button>
+                    <template slot="popover">
+                      <h1 class="head-main text-lg mb-2">
+                        Metodika významných rozhodnutí
+                      </h1>
+                      <p>
+                        U daného soudce by byla možnost zobrazit si více filtrů
+                        rozhodnutí:
+                      </p>
+                      <ul class="list-disc list-outside ml-5 my-4">
+                        <li>všechna anonymizovaná rozhodnutí daného soudce,</li>
+                        <li>
+                          významná rozhodnutí po právní či společenské stránce
+                          (viz dále),
+                        </li>
+                        <li>
+                          rozhodnutí, u kterých byly shledány excesy rozhodnutím
+                          nadřízeného soudu, které nebylo později zrušeno,
+                        </li>
+                        <li>
+                          příp. nejlépe hodnocená rozhodnutí v reputačním
+                          systému.
+                        </li>
+                      </ul>
+                      <p>
+                        Významným rozhodnutím se myslí rozhodnutí významné po
+                        stránce právní či společenské (typicky významné kauzy
+                        veřejných činitelů, které se objevují v médiích). Za
+                        významné může rozhodnutí označit rozhodující soudce,
+                        kterýkoli jiný soudce působící na daném soudu včetně
+                        předsedy soudu, tiskový mluvčí soudu a dále předsedové
+                        soudů nebo senátů vyšších instancí. Významným
+                        rozhodnutím z právních důvodů je také rozhodnutí, které
+                        bylo publikováno v úřední sbírce rozhodnutí. Přesné
+                        vymezení minimální množiny významných rozhodnutí je
+                        uvedeno v Instrukci Ministerstva spravedlnosti ze dne
+                        20. června 2002, č. j. 20/2002-SM, kterou se upravuje
+                        postup při evidenci a zařazování rozhodnutí okresních,
+                        krajských a vrchních soudů do systému elektronické
+                        evidence soudní judikatury, která ovšem není zcela
+                        naplňována, viz šetření
+                        <a
+                          href="https://www.ochrance.cz/fileadmin/user_upload/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf"
+                          target="_blank"
+                          rel="noopener"
+                          class="underline"
+                          >ombudsmanky</a
+                        >
+                        a měla by být za tímto účelem novelizována.
+                      </p>
+                      <p class="pt-2">
+                        K diskuzi je, že by vedle uvedeného systému měly možnost
+                        označit rozhodnutí za společensky významné rovněž osoby,
+                        které by se zaregistrovaly do připraveného systému
+                        (například hvězdičkou) tak, jako je to v proprietárních
+                        databázích judikatury. Tím by vznikl reputační systém v
+                        databázi, ať už navázaný na citování nebo hodnocení
+                        uživateli. Aktivní možnost hvězdičkovat by mohla být
+                        omezena např. pouze na registrované uživatele z řad
+                        právnických profesí (tj. zejména advokáty, soudce,
+                        státní zástupce a jejich koncipienty či asistenty).
+                      </p>
+                    </template>
+                  </v-popover>
+                </no-ssr>
               </h1>
               <Decision
                 year="2014"
