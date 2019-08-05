@@ -143,9 +143,7 @@ export default {
     host: process.env.HOST || 'https://kartasoudce.pirati.cz',
     siteInfo: {
       name: process.env.SITE_NAME || 'Karta soudce',
-      claim:
-        process.env.SITE_CLAIM ||
-        'Na prototypu veřejné karty soudce chceme ukázat, že i justice může být více transparentní',
+      claim: process.env.SITE_CLAIM || 'I justice může být více transparentní',
       email: process.env.SITE_EMAIL || 'info@pirati.cz',
       phone: process.env.SITE_PHONE,
       fbProfileUrl:
