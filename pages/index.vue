@@ -15,11 +15,8 @@
     </div>
     <div class="flex flex-row">
       <no-ssr>
-        <aside class="w-1/4 block" v-if="$mq === 'xl'">
-          <affix
-            class="toc"
-            relative-element-selector="#profile-sections"
-          >
+        <aside v-if="$mq === 'xl'" class="w-1/4 block">
+          <affix class="toc" relative-element-selector="#profile-sections">
             <scrollactive :offset="80">
               <ul class="profile-navbar">
                 <li class="profile-navbar-item">
@@ -141,7 +138,7 @@
               Zproštění Nagyové, Páleníka, Kovandy a Pohůnka v kauze obvinění ze
               zneužití Vojenského zpravodajství k Nečasové
             </p>
-            <ul class="list-disc list-inside">
+            <ul class="list-disc list-outside ml-5">
               <li>
                 <a
                   href="https://drive.google.com/file/d/1E1MSX68szzg5wsFIcFMsPrjqJvwwpCdh/view"
@@ -244,7 +241,7 @@
             title="Kauza armádního areálu v Břevnově – sp. zn. 3 T 93/2014"
           >
             <ul
-              class="list-disc list-inside"
+              class="list-disc list-outside ml-5"
               status="pravomocně skončeno"
               proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=93&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
             >
@@ -273,7 +270,7 @@
             title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
           >
             <ul
-              class="list-disc list-inside"
+              class="list-disc list-outside ml-5"
               status="pravomocně skončeno"
               proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
             >
@@ -295,7 +292,7 @@
             status="dosud pravomocně neskončeno"
             proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=91&rocnik=2011&spamQuestion=23&agendaNc=CIVIL"
           >
-            <ul class="list-disc list-inside">
+            <ul class="list-disc list-outside ml-5">
               <li>
                 <a
                   href="https://drive.google.com/file/d/1O_EDSvVY36XZCbdzvjHGHTccaGUFEKLm/view"
@@ -398,7 +395,7 @@
             status="dosud pravomocně neskončeno"
             proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=41&rocnik=2010&spamQuestion=23&agendaNc=CIVIL"
           >
-            <ul class="list-disc list-inside">
+            <ul class="list-disc list-outside ml-5">
               <li>
                 <a
                   href="https://drive.google.com/file/d/1yhJs0jP_49GKdxbahauNXyWrk6UJI1y-/view"
@@ -539,7 +536,7 @@
             title="Případ vydírání ze strany devíti pražských taxikářů v kauze Thorges"
             status="pravomocně skončeno"
           >
-            <ul class="list-disc list-inside">
+            <ul class="list-disc list-outside ml-5">
               <li>
                 <a
                   href="https://drive.google.com/file/d/1det8KQxtRhUuQNqDCWWTPk8YUVBPID84/view"
@@ -645,7 +642,7 @@
           <h1 id="other" class="profile-section-headline">
             Další data, která chceme zveřejnit
           </h1>
-          <ul class="list-disc list-inside text-lg">
+          <ul class="list-disc list-outside ml-5 text-lg">
             <li>Pravidelné hodnocení výkonnosti</li>
             <li>Majetkové přiznání</li>
             <li>

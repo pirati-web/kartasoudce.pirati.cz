@@ -10,4 +10,4 @@ Vue.use(VueMq, {
     xl: Infinity
   },
   defaultBreakpoint: 'lg' // for SSR
-});
+})
