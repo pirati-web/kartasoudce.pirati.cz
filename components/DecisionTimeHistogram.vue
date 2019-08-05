@@ -201,6 +201,12 @@ export default {
               }
             }
           ]
+        },
+        plugins: {
+          deferred: {
+            yOffset: '60%',
+            delay: 700
+          }
         }
       },
       options2: {
@@ -244,6 +250,12 @@ export default {
               }
             }
           ]
+        },
+        plugins: {
+          deferred: {
+            yOffset: '60%',
+            delay: 700
+          }
         }
       }
     }

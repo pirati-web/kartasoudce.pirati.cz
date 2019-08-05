@@ -1,5 +1,6 @@
 <script>
 import { Bar, mixins } from 'vue-chartjs'
+import deferred from 'chartjs-plugin-deferred'
 
 export default {
   extends: Bar,
@@ -12,6 +13,7 @@ export default {
     }
   },
   mounted() {
+    this.addPlugin(deferred)
     this.renderChart(this.chartData, this.options)
   }
 }

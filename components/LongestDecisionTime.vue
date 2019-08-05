@@ -75,6 +75,12 @@ export default {
               }
             }
           ]
+        },
+        plugins: {
+          deferred: {
+            yOffset: '60%',
+            delay: 700
+          }
         }
       }
     }
