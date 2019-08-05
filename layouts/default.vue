@@ -1,9 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col">
     <Header />
-    <div class="container container-resp flex-grow py-4 md:py-8">
-      <nuxt />
-    </div>
+    <nuxt />
     <Footer />
   </div>
 </template>

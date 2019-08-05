@@ -19,7 +19,8 @@
     "vue-affix": "^0.5.2",
     "vue-chartjs": "^3.4.2",
     "vue-mq": "^1.0.1",
-    "vue-scrollactive": "^0.8.0"
+    "vue-scrollactive": "^0.8.0",
+    "vue2-smooth-scroll": "^1.1.0"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^1.0.0",
