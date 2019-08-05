@@ -160,9 +160,14 @@ export default {
    ** Build configuration
    */
   build: {
+    analyze: true,
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
+    extend(config, ctx) {
+      config.externals = {
+        moment: 'moment'
+      }
+    }
   }
 }

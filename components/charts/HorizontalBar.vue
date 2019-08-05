@@ -4,7 +4,13 @@ import { HorizontalBar, mixins } from 'vue-chartjs'
 export default {
   extends: HorizontalBar,
   mixins: [mixins.reactiveProp],
-  props: ['options'],
+  props: {
+    options: {
+      type: Object,
+      required: false,
+      default: () => {}
+    }
+  },
   mounted() {
     this.renderChart(this.chartData, this.options)
   }

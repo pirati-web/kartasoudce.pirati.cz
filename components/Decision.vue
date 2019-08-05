@@ -33,6 +33,30 @@
 
 <script>
 export default {
-  props: ['year', 'title', 'proceedingsLink', 'status', 'statusLink']
+  props: {
+    year: {
+      type: String,
+      required: true
+    },
+    title: {
+      type: String,
+      required: true
+    },
+    proceedingsLink: {
+      type: String,
+      required: false,
+      default: null
+    },
+    status: {
+      type: String,
+      required: false,
+      default: null
+    },
+    statusLink: {
+      type: String,
+      required: false,
+      default: null
+    }
+  }
 }
 </script>

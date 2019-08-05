@@ -9,6 +9,11 @@
 
 <script>
 export default {
-  props: ['year']
+  props: {
+    year: {
+      type: String,
+      required: true
+    }
+  }
 }
 </script>
