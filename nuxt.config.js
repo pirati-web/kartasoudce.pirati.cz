@@ -36,8 +36,7 @@ export default {
         name: 'description',
         content: process.env.npm_package_description || ''
       },
-      { name: 'robots', content: 'index,follow' },
-      { property: 'og:type', content: 'website' }
+      { name: 'robots', content: 'index,follow' }
     ],
     link: [
       {
@@ -141,9 +140,12 @@ export default {
     '@nuxtjs/tailwindcss'
   ],
   env: {
+    host: process.env.HOST || 'https://kartasoudce.pirati.cz',
     siteInfo: {
       name: process.env.SITE_NAME || 'Karta soudce',
-      claim: process.env.SITE_CLAIM || 'CLAIM: TBD',
+      claim:
+        process.env.SITE_CLAIM ||
+        'Na prototypu veřejné karty soudce chceme ukázat, že i justice může být více transparentní',
       email: process.env.SITE_EMAIL || 'info@pirati.cz',
       phone: process.env.SITE_PHONE,
       fbProfileUrl:

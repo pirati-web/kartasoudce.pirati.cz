@@ -31,6 +31,7 @@ html {
 <script>
 import Header from '~/components/Header.vue'
 import Footer from '~/components/Footer.vue'
+import ogImage from '~/static/img/intro.jpg'
 
 export default {
   components: {
@@ -40,7 +41,17 @@ export default {
   head() {
     return {
       title: process.env.siteInfo.claim || 'Úvod',
-      titleTemplate: `%s | ${process.env.siteInfo.name}`
+      titleTemplate: `%s | ${process.env.siteInfo.name}`,
+      meta: [
+        { property: 'og:type', content: 'website' },
+        { property: 'og:image', content: ogImage },
+        {
+          property: 'og:title',
+          content: process.env.siteInfo.claim || 'Úvod',
+          template: `%s | ${process.env.siteInfo.name}`
+        },
+        { property: 'og:url', content: process.env.host + this.$route.path }
+      ]
     }
   }
 }

@@ -6,17 +6,20 @@
         <div
           class="container px-4 md:px-8 hero flex flex-col items-center text-center text-white"
         >
-          <h1 class="head-super text-4xl md:text-7xl mb-4">
+          <span class="hero-scales"><i class="fa fa-balance-scale"></i></span>
+          <h1 class="hero-title head-super text-4xl md:text-7xl mb-4">
             Veřejná karta soudce
           </h1>
-          <cite class="head-alt text-xl md:text-2xl max-w-4xl"
-            >„Lze souhlasit, že jistá podoba tzv. karty soudce obsahující
-            kupříkladu profesní životopis a anonymizovaná rozhodnutí by mohla
-            mít pozitivní vliv na transparentnost systému.“</cite
-          >
-          <p class="mt-2 text-lg md:text-xl">
-            <strong>prof. Pavel Šámal, předseda Nejvyššího soudu</strong>
-          </p>
+          <div class="hero-cite">
+            <cite class="head-alt text-lg md:text-2xl"
+              >„Lze souhlasit, že jistá podoba tzv. karty soudce obsahující
+              kupříkladu profesní životopis a anonymizovaná rozhodnutí by mohla
+              mít pozitivní vliv na transparentnost systému.“</cite
+            >
+            <p class="mt-2 text-lg md:text-xl">
+              <strong>prof. Pavel Šámal, předseda Nejvyššího soudu</strong>
+            </p>
+          </div>
           <a
             v-smooth-scroll="{ offset: -30, duration: 1000 }"
             href="#profile-sections"
@@ -739,6 +742,33 @@
 
 .hero {
   z-index: 1;
+
+  @screen md {
+    margin-top: -9rem;
+  }
+}
+
+.hero-title {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+}
+
+.hero-cite {
+  @apply p-4 rounded max-w-4xl;
+
+  background: rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0 0 2rem rgba(0, 0, 0, 0.5);
+}
+
+.hero-scales {
+  display: none;
+
+  @screen md {
+    @apply mb-4;
+
+    display: block;
+    font-size: 5rem;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+  }
 }
 
 .toc {
