@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+    website:
+        build:
+            context: .
+        ports:
+            - "8000:80"
+        restart: always
