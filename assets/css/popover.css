@@ -23,9 +23,7 @@
 .tooltip .tooltip-arrow {
   width: 0;
   height: 0;
-  border-style: theme('colors.brand-graylight');
   position: absolute;
-  border-color: theme('colors.brand-graylight');
 }
 
 .tooltip[x-placement^="top"] {

@@ -170,5 +170,8 @@ export default {
         moment: 'moment'
       }
     }
+  },
+  purgeCSS: {
+    whitelist: ['popover', 'v-popover', 'popover-inner', 'popover-arrow', 'tooltip', 'tooltip-arrow']
   }
 }
