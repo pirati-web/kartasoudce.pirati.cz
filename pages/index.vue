@@ -722,8 +722,19 @@
               <h1 id="disciplinary-offenses" class="profile-section-headline">
                 Kárná provinění
               </h1>
-              <DisciplinaryOffense year="2018">
-                <strong class="head-main text-xl">sp. zn. 16 Kss 7/2017</strong>
+              <DisciplinaryOffense
+                year="2018"
+                link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+              >
+                <a
+                  href="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+                  target="_blank"
+                  rel="noopener"
+                  class="underline"
+                  ><strong class="head-main text-xl"
+                    >sp. zn. 16 Kss 7/2017</strong
+                  ></a
+                >
                 &mdash; na základě kárné žaloby ministra spravedlnosti JUDr.
                 Roberta Pelikána, Ph.D., uznána Nejvyšším správním soudem
                 vinnou, že z nedbalosti v rozporu se závaznými právními názory

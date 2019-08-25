@@ -172,6 +172,13 @@ export default {
     }
   },
   purgeCSS: {
-    whitelist: ['popover', 'v-popover', 'popover-inner', 'popover-arrow', 'tooltip', 'tooltip-arrow']
+    whitelist: [
+      'popover',
+      'v-popover',
+      'popover-inner',
+      'popover-arrow',
+      'tooltip',
+      'tooltip-arrow'
+    ]
   }
 }
