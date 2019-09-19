@@ -15,7 +15,7 @@
               >„Karta soudce má zajistit transparentnější justici.“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
-              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny ČR</strong>
+              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny</strong>
             </p>
           </div>
           <a
