@@ -12,10 +12,11 @@
           </h1>
           <div class="hero-cite">
             <cite class="head-alt text-lg md:text-2xl"
-              >„Karta soudce má zajistit transparentnější justici.“</cite
+              >„Karta soudce má zajistit transparentnější justici, aby měla veřejnost přehled
+              o základních informacích o soudcích a o jejich činnosti a výsledcích.“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
-              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny</strong>
+              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru PSP ČR</strong>
             </p>
           </div>
           <a
@@ -73,7 +74,13 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Soudkyně:</div>
                     <div class="personal-data-value">
-                      JUDr. Helena Králová, nar. 12. 8. 1951
+                      JUDr. Helena Králová
+                      </div>
+                  </div>
+                  <div class="personal-data-item">
+                    <div class="personal-data-label">Rok narození:</div>
+                    <div class="personal-data-value">
+                      1951
                     </div>
                   </div>
                   <div class="personal-data-item">
@@ -83,13 +90,7 @@
                     </div>
                   </div>
                   <div class="personal-data-item">
-                    <div class="personal-data-label">Funkce:</div>
-                    <div class="personal-data-value">
-                      místopředsedkyně OS Praha 1
-                    </div>
-                  </div>
-                  <div class="personal-data-item">
-                    <div class="personal-data-label">Soudkyní je od:</div>
+                    <div class="personal-data-label">Soudcem od roku:</div>
                     <div class="personal-data-value">1975 (OS Cheb)</div>
                   </div>
                   <div class="personal-data-item">
@@ -748,9 +749,7 @@
               <ul class="list-disc list-outside ml-5 text-lg">
                 <li>Pravidelné hodnocení výkonnosti</li>
                 <li>Majetkové přiznání</li>
-                <li>
-                  Veřejný diář schůzek (týká se stran řízení a jejich zástupců)
-                </li>
+               
               </ul>
             </section>
           </content>
