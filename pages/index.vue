@@ -221,12 +221,11 @@
                 </no-ssr>
               </h1>
               
-              </section>
+             </section>
             <section class="profile-section">
               <h1 id="major-decisions" class="profile-section-headline">
                 Pozoruhodná rozhodnutí
-                <no-ssr>
-                  <v-popover>
+              
                   
               <Decision
                 year="2014"
