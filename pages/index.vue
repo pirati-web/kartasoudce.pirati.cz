@@ -16,7 +16,7 @@
               o základních informacích o soudcích a o jejich činnosti a výsledcích.“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
-              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru PSP ČR</strong>
+              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právnhgfhgfhgfího výboru PSP ČR</strong>
             </p>
           </div>
           <a
