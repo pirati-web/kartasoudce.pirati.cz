@@ -220,13 +220,7 @@
                   </v-popover>
                 </no-ssr>
               </h1>
-              
-             </section>
-            <section class="profile-section">
-              <h1 id="major-decisions" class="profile-section-headline">
-                Pozoruhodná rozhodnutí
-              
-                  
+           
               <Decision
                 year="2014"
                 title="Kauza Nagyová – Vojenské zpravodajství – sp. zn. 3 T 35/2014"
