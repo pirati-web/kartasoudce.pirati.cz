@@ -45,6 +45,11 @@
                       >
                     </li>
                     <li class="profile-navbar-item">
+                      <a class="scrollactive-item" href="#disciplinary-offenses"
+                        >Kárná provinění</a
+                      >
+                    </li>
+                    <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#decision-speed"
                         >Rychlost rozhodování</a
                       >
@@ -52,11 +57,6 @@
                     <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#major-decisions"
                         >Významná rozhodnutí</a
-                      >
-                    </li>
-                    <li class="profile-navbar-item">
-                      <a class="scrollactive-item" href="#disciplinary-offenses"
-                        >Kárná provinění</a
                       >
                     </li>
                     <li class="profile-navbar-item">
@@ -132,7 +132,7 @@
                   />
                 </div>
               </div>
-              <p class="lg:mt-4">
+              <p class="lg:mt-4 text-lg">
                 <i class="fa fa-question-circle" /> Lze tyto informace
                 zveřejňovat? Přečtěte si
                 <a
@@ -145,9 +145,36 @@
               </p>
             </section>
             <section class="profile-section">
+              <h1 id="disciplinary-offenses" class="profile-section-headline">
+                Kárná provinění
+              </h1>
+              <p class="lg:mb-8 text-lg"><i class="fa fa-info-circle" /> V sekci kárná provinění jsou uváděna pouze taková kárná rozhodnutí, která ukládají kárné opatření a nedošlo k jejich zahlazení dle § 24 zákona o řízení ve věcech soudců a státních zástupců.</p>
+              <DisciplinaryOffense
+                year="2018"
+                link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+              >
+                <a
+                  href="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+                  target="_blank"
+                  rel="noopener"
+                  class="underline"
+                  ><strong class="head-main text-xl"
+                    >sp. zn. 16 Kss 7/2017</strong
+                  ></a
+                >
+                &mdash; na základě kárné žaloby ministra spravedlnosti JUDr.
+                Roberta Pelikána, Ph.D., uznána Nejvyšším správním soudem
+                vinnou, že z nedbalosti v rozporu se závaznými právními názory
+                odvolacího soudu hodnotila důkazy způsobem jsoucím v extrémním
+                rozporu s rozumným myšlením, za což jí bylo uloženo kárné
+                opatření ve formě snížení platu o 15 % na dobu 1 roku.
+              </DisciplinaryOffense>
+            </section>
+            <section class="profile-section">
               <h1 id="decision-speed" class="profile-section-headline">
                 Rychlost rozhodování
               </h1>
+              <p class="lg:mb-8 text-lg"><i class="fa fa-info-circle" /> V případě, že jsou v řízení průtahy, lze podat stížnost podle § 164, případně lze podat návrh na určení lhůty k provedení procesního úkonu podle § 174a zákona o soudech a soudcích.</p>
               <div
                 class="flex flex-col flex-no-wrap items-center justify-center content-center"
               >
@@ -732,31 +759,6 @@
                   </li>
                 </ul>
               </Decision>
-            </section>
-            <section class="profile-section">
-              <h1 id="disciplinary-offenses" class="profile-section-headline">
-                Kárná provinění
-              </h1>
-              <DisciplinaryOffense
-                year="2018"
-                link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
-              >
-                <a
-                  href="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
-                  target="_blank"
-                  rel="noopener"
-                  class="underline"
-                  ><strong class="head-main text-xl"
-                    >sp. zn. 16 Kss 7/2017</strong
-                  ></a
-                >
-                &mdash; na základě kárné žaloby ministra spravedlnosti JUDr.
-                Roberta Pelikána, Ph.D., uznána Nejvyšším správním soudem
-                vinnou, že z nedbalosti v rozporu se závaznými právními názory
-                odvolacího soudu hodnotila důkazy způsobem jsoucím v extrémním
-                rozporu s rozumným myšlením, za což jí bylo uloženo kárné
-                opatření ve formě snížení platu o 15 % na dobu 1 roku.
-              </DisciplinaryOffense>
             </section>
             <section class="profile-section">
               <h1 id="other" class="profile-section-headline">
