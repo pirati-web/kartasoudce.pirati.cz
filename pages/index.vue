@@ -2,7 +2,8 @@
   <div>
     <div class="pb-8 md:pb-24 lg:pb-48">
       <div class="lead flex items-center">
-        <img src="~/static/img/intro.jpg" class="lead-media" />
+        <img src="~/static/img/justicni_areal.jpg" class="lead-media" />
+        <small class="lead-media-attribution">Justiční areál v brněnských Štýřicích. Autor fotografie: <a href="https://commons.wikimedia.org/wiki/User:Bazi" class="underline">Martin Strachoň</a></small>
         <div
           class="container px-4 md:px-8 hero flex flex-col items-center text-center text-white"
         >
@@ -811,6 +812,21 @@
   object-fit: cover;
 }
 
+.lead-media-attribution {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+
+  color: #fff;
+  text-shadow: 0 0 12px rgba(0, 0, 0, 1);
+
+  @apply text-xs;
+
+  @screen md {
+    @apply text-sm;
+  }
+}
+
 .lead-showmore {
   font-size: 3rem;
   position: absolute;
@@ -819,11 +835,15 @@
   height: 3rem;
   line-height: 3rem;
   left: 50%;
-  bottom: 2rem;
+  bottom: 4rem;
   margin-left: -1.5rem;
   color: #fff;
   opacity: 0.5;
   transition: opacity 0.3s ease-in-out;
+
+  @media (max-height: 650px) {
+    display: none;
+  }
 }
 
 .lead-showmore:hover {
