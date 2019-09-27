@@ -12,11 +12,15 @@
           </h1>
           <div class="hero-cite">
             <cite class="head-alt text-lg md:text-2xl"
-              >„Karta soudce má zajistit transparentnější justici, aby měla veřejnost přehled
-              o základních informacích o soudcích a o jejich činnosti a výsledcích.“</cite
+              >„Karta soudce má zajistit transparentnější justici, aby měla
+              veřejnost přehled o základních informacích o soudcích a o jejich
+              činnosti a výsledcích.“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
-              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru PSP ČR</strong>
+              <strong
+                >Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního
+                výboru PSP ČR</strong
+              >
             </p>
           </div>
           <a
@@ -75,7 +79,7 @@
                     <div class="personal-data-label">Soudkyně:</div>
                     <div class="personal-data-value">
                       JUDr. Helena Králová
-                      </div>
+                    </div>
                   </div>
                   <div class="personal-data-item">
                     <div class="personal-data-label">Rok narození:</div>
@@ -128,6 +132,17 @@
                   />
                 </div>
               </div>
+              <p class="lg:mt-4">
+                <i class="fa fa-question-circle" /> Lze tyto informace
+                zveřejňovat? Přečtěte si
+                <a
+                  href="https://github.com/pirati-byro/spisy-jm/blob/master/21523-prosba_o_pripominky_UOOU_karta%20soudce/02-odpoved/priloha_696901364_0_g568082.pdf"
+                  rel="noopener"
+                  target="_blank"
+                  class="underline"
+                  >vyjádření prezidentky Úřadu pro ochranu osobních údajů</a
+                >.
+              </p>
             </section>
             <section class="profile-section">
               <h1 id="decision-speed" class="profile-section-headline">
@@ -220,7 +235,7 @@
                   </v-popover>
                 </no-ssr>
               </h1>
-           
+
               <Decision
                 year="2014"
                 title="Kauza Nagyová – Vojenské zpravodajství – sp. zn. 3 T 35/2014"
@@ -750,7 +765,6 @@
               <ul class="list-disc list-outside ml-5 text-lg">
                 <li>Pravidelné hodnocení výkonnosti</li>
                 <li>Majetkové přiznání</li>
-               
               </ul>
             </section>
           </content>
