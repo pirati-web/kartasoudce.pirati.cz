@@ -7,7 +7,7 @@
     />
     <p class="text-center mt-4">
       JUDr. Helena Králová vyřeší 90 % případů v době 368 dní, což je o
-      <strong>42% horší</strong> než průměr OS Praha 1.
+      <strong>42% pomalejší</strong> než průměr OS Praha 1.
     </p>
     <p class="text-sm text-center mt-1">
       Zdroj: data z
