@@ -155,7 +155,7 @@
                   />
                 </div>
               </div>
-              <p class="lg:mt-4 text-lg">
+              <p class="profile-section-note mt-8">
                 <i class="fa fa-question-circle" /> Lze tyto informace
                 zveřejňovat? Přečtěte si
                 <a
@@ -171,7 +171,7 @@
               <h1 id="disciplinary-offenses" class="profile-section-headline">
                 Kárná provinění
               </h1>
-              <p class="lg:mb-8 text-lg">
+              <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
                 uváděna pouze taková kárná rozhodnutí, která ukládají kárné
                 opatření a nedošlo k jejich zahlazení dle § 24 zákona o řízení
@@ -202,7 +202,7 @@
               <h1 id="decision-speed" class="profile-section-headline">
                 Rychlost rozhodování
               </h1>
-              <p class="lg:mb-8 text-lg">
+              <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V případě, že jsou v řízení
                 průtahy, lze podat stížnost podle § 164, případně lze podat
                 návrh na určení lhůty k provedení procesního úkonu podle § 174a
@@ -295,6 +295,18 @@
                   </v-popover>
                 </no-ssr>
               </h1>
+
+              <h2 class="profile-section-subheadline">
+                Kauzy, kdy bylo rozhodnutí opakovaně rušeno nadřízeným soudem
+              </h2>
+              <p class="profile-section-note">
+                Opakované rušení rozhodnutí odvolacím soudem indikuje, že nebyl
+                respektován závazný právní názor odvolacího soudu. Přitom dle §
+                264 odst. 1 trestního řádu soud, jemuž věc byla vrácena k novému
+                projednání a rozhodnutí, je vázán právním názorem, který
+                vyslovil ve svém rozhodnutí odvolací soud, a je povinen provést
+                úkony a doplnění, jejichž provedení odvolací soud nařídil.
+              </p>
 
               <Decision
                 year="2014"
@@ -398,56 +410,6 @@
                       >rozhodnutí bylo zrušeno jako nezákonné a MS Praha zároveň
                       nařídil, aby byla věc projednána jiným soudcem</strong
                     >
-                  </li>
-                </ul>
-              </Decision>
-              <Decision
-                year="2014"
-                title="Kauza armádního areálu v Břevnově – sp. zn. 3 T 93/2014"
-              >
-                <ul
-                  class="list-disc list-outside ml-5"
-                  status="pravomocně skončeno"
-                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=93&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
-                >
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/18mPFplSAQW9VetWj2wUSvq1cAlgahHpQ/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >rozsudek OS Praha 1 ze dne 21. 8. 2017</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1EWfron9qK8a00t6QVxDGRNVOwy8K5DFi/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >rozsudek MS Praha ze dne 1. 3. 2018</a
-                    >
-                  </li>
-                </ul>
-              </Decision>
-              <Decision
-                year="2012"
-                title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
-              >
-                <ul
-                  class="list-disc list-outside ml-5"
-                  status="pravomocně skončeno"
-                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
-                >
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/18QLswUjz1Om5b4NL_26-nC-DR69Dajal/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zprošťující rozsudek OS Praha 1 ze dne 3. 9. 2013</a
-                    >
-                    - statní zástupce se neodvolal
                   </li>
                 </ul>
               </Decision>
@@ -696,6 +658,61 @@
                   </li>
                 </ul>
               </Decision>
+
+              <h2 class="profile-section-subheadline">
+                Další významná rozhodnutí
+              </h2>
+
+              <Decision
+                year="2014"
+                title="Kauza armádního areálu v Břevnově – sp. zn. 3 T 93/2014"
+              >
+                <ul
+                  class="list-disc list-outside ml-5"
+                  status="pravomocně skončeno"
+                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=93&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
+                >
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/18mPFplSAQW9VetWj2wUSvq1cAlgahHpQ/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >rozsudek OS Praha 1 ze dne 21. 8. 2017</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1EWfron9qK8a00t6QVxDGRNVOwy8K5DFi/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >rozsudek MS Praha ze dne 1. 3. 2018</a
+                    >
+                  </li>
+                </ul>
+              </Decision>
+              <Decision
+                year="2012"
+                title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
+              >
+                <ul
+                  class="list-disc list-outside ml-5"
+                  status="pravomocně skončeno"
+                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
+                >
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/18QLswUjz1Om5b4NL_26-nC-DR69Dajal/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >zprošťující rozsudek OS Praha 1 ze dne 3. 9. 2013</a
+                    >
+                    - statní zástupce se neodvolal
+                  </li>
+                </ul>
+              </Decision>
               <Decision
                 year="1997"
                 title="Případ vydírání ze strany devíti pražských taxikářů v kauze Thorges"
@@ -788,6 +805,11 @@
                   </li>
                 </ul>
               </Decision>
+
+              <h2 class="profile-section-subheadline">
+                Ústavním soudem potvrzená či ve sbírce rozhodnutí publikovaná
+                rozhodnutí
+              </h2>
             </section>
             <section class="profile-section">
               <h1 id="other" class="profile-section-headline">
@@ -954,6 +976,14 @@
   @apply head-super text-3xl mb-8;
 }
 
+.profile-section-subheadline {
+  @apply head-main text-2xl mb-4 mt-10;
+}
+
+.profile-section-note {
+  @apply text-lg;
+}
+
 .personal-data-item {
   @apply flex flex-col mb-2;
 }
@@ -969,6 +999,14 @@
 
   .profile-section-headline {
     @apply text-5xl;
+  }
+
+  .profile-section-subheadline {
+    @apply head-main text-3xl mb-4;
+  }
+
+  .profile-section-note {
+    @apply mb-8;
   }
 
   .personal-data-item {
