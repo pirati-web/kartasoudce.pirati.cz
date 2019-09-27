@@ -19,6 +19,7 @@
             Veřejná karta soudce
           </h1>
           <div class="hero-cite">
+            <img src="~/static/img/jakub_michalek.jpg" class="hero-cite-face" />
             <cite class="head-alt text-lg md:text-2xl"
               >„Karta soudce má zajistit transparentnější justici, aby měla
               veřejnost přehled o základních informacích o soudcích a o jejich
@@ -1002,6 +1003,13 @@
 
   background: rgba(0, 0, 0, 0.4);
   box-shadow: inset 0 0 2rem rgba(0, 0, 0, 0.5);
+}
+
+.hero-cite-face {
+  display: block;
+  margin: auto;
+
+  @apply w-32 h-32 rounded-full mb-4 mt-4;
 }
 
 .hero-scales {
