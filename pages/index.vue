@@ -3,7 +3,14 @@
     <div class="pb-8 md:pb-24 lg:pb-48">
       <div class="lead flex items-center">
         <img src="~/static/img/justicni_areal.jpg" class="lead-media" />
-        <small class="lead-media-attribution">Justiční areál v brněnských Štýřicích. Autor fotografie: <a href="https://commons.wikimedia.org/wiki/User:Bazi" class="underline">Martin Strachoň</a></small>
+        <small class="lead-media-attribution"
+          >Justiční areál v brněnských Štýřicích. Autor fotografie:
+          <a
+            href="https://commons.wikimedia.org/wiki/User:Bazi"
+            class="underline"
+            >Martin Strachoň</a
+          ></small
+        >
         <div
           class="container px-4 md:px-8 hero flex flex-col items-center text-center text-white"
         >
@@ -25,13 +32,28 @@
             </p>
           </div>
           <a
-            v-smooth-scroll="{ offset: -30, duration: 1000 }"
-            href="#profile-sections"
+            v-smooth-scroll="{ offset: 0, duration: 1000 }"
+            href="#about"
             class="lead-showmore"
           >
             <i class="fa fa-arrow-circle-down"></i>
           </a>
         </div>
+      </div>
+      <div id="about" class="bg-brand-blackmid text-white">
+        <section
+          class="container container-resp text-center pt-8 pb-8 lg:pt-16 lg:pb-16"
+        >
+          <h1 class="head-super text-3xl md:text-5xl">O kartě soudce</h1>
+          <p class="md:text-xl">
+            Veřejná karta soudce má zajistit, aby veřejnost měla základní
+            informace o jednotlivých soudcích a jejich činnosti, jak si stojí, a
+            to i v porovnání s ostatními soudci v rámci jedné agendy jednoho
+            soudu. K dispozici jsou základní údaje o daném soudci, statistiky o
+            rychlosti jeho rozhodování, jím vydaná významná rozhodnutí a i
+            případná kárná rozhodnutí o jeho osobě.
+          </p>
+        </section>
       </div>
       <div class="container container-resp flex-grow py-4 md:py-8">
         <div class="flex flex-row">
@@ -149,7 +171,12 @@
               <h1 id="disciplinary-offenses" class="profile-section-headline">
                 Kárná provinění
               </h1>
-              <p class="lg:mb-8 text-lg"><i class="fa fa-info-circle" /> V sekci kárná provinění jsou uváděna pouze taková kárná rozhodnutí, která ukládají kárné opatření a nedošlo k jejich zahlazení dle § 24 zákona o řízení ve věcech soudců a státních zástupců.</p>
+              <p class="lg:mb-8 text-lg">
+                <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
+                uváděna pouze taková kárná rozhodnutí, která ukládají kárné
+                opatření a nedošlo k jejich zahlazení dle § 24 zákona o řízení
+                ve věcech soudců a státních zástupců.
+              </p>
               <DisciplinaryOffense
                 year="2018"
                 link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
@@ -175,7 +202,12 @@
               <h1 id="decision-speed" class="profile-section-headline">
                 Rychlost rozhodování
               </h1>
-              <p class="lg:mb-8 text-lg"><i class="fa fa-info-circle" /> V případě, že jsou v řízení průtahy, lze podat stížnost podle § 164, případně lze podat návrh na určení lhůty k provedení procesního úkonu podle § 174a zákona o soudech a soudcích.</p>
+              <p class="lg:mb-8 text-lg">
+                <i class="fa fa-info-circle" /> V případě, že jsou v řízení
+                průtahy, lze podat stížnost podle § 164, případně lze podat
+                návrh na určení lhůty k provedení procesního úkonu podle § 174a
+                zákona o soudech a soudcích.
+              </p>
               <div
                 class="flex flex-col flex-no-wrap items-center justify-center content-center"
               >
