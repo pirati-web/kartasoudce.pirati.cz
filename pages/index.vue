@@ -270,10 +270,6 @@
                 status-link="http://infosoud.justice.cz/InfoSoud/public/list.do?druhVec=T&rocnik=2014&cisloSenatu=3&bcVec=35&kraj=MSPHAAB&org=OSPHA01&poradiUdalosti=171&cisloSenatuLabel=3&typSoudu=os&agendaNc=CIVIL&druhUdalosti=ST_VEC_PUK&idUdalosti=null&druhVecId=T&rocnikId=2014&cisloSenatuId=3&bcVecId=35&orgId=OSPHA01"
                 proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do;jsessionid=FJeq2WGPsLqFODvs7Mqmf_U6UaTIW-sbDMedlzDs.infosoud01?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=35&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
               >
-                <p class="pb-4">
-                  Zproštění Nagyové, Páleníka, Kovandy a Pohůnka v kauze
-                  obvinění ze zneužití Vojenského zpravodajství k Nečasové
-                </p>
                 <ul class="list-disc list-outside ml-5">
                   <li>
                     <a
