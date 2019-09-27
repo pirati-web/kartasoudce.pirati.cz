@@ -823,6 +823,87 @@
           </content>
         </div>
       </div>
+      <section id="faq" class="container container-resp pt-8 lg:pt-16 text-lg">
+        <h1 class="profile-section-headline">Často kladené otázky</h1>
+        <h2 class="profile-section-subsubheadline">K čemu to je?</h2>
+        <p>
+          Veřejná karta soudce má zajistit, aby veřejnost měla základní
+          informace o jednotlivých soudcích a jejich činnosti, o tom, jak si
+          stojí, a to i v porovnání s ostatními soudci v rámci jedné agendy
+          jednoho soudu. K dispozici jsou základní údaje o daném soudci,
+          statistiky o rychlosti jeho rozhodování, jím vydaná významná
+          rozhodnutí a i případná kárná rozhodnutí o jeho osobě. Dále by
+          součástí mohlo být i pravidelné hodnocení výkonnosti soudce, jeho
+          majetkové přiznání a veřejných diář schůzek se stranami řízení či
+          jejich zástupci.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Nebude sledování rychlosti vyřizování věcí na úkor kvality rozhodnutí?
+        </h2>
+        <p>
+          Každý soudce funguje pod určitým časovým tlakem, aby rozhodoval o
+          věcech účastníků řízení v rozumné době. Sledování rychlosti by
+          rozhodně na úkor kvality rozhodnutí být nemělo. Cílem sledování je
+          spíše nacházet výrazné excesy v rychlosti rozhodování.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Proč není měřena míra rušení rozhodnutí nadřízeným soudem?
+        </h2>
+        <p>
+          Vzhledem k tzv. sendvičovému efektu, o kterém píše právní vědec David
+          Kosař, kdy jsou vzhledem k vývoji po Sametové revoluci okresní a
+          obvodní soudy a Ústavní soud obsazeny převážně soudci jmenovanými až
+          po roce 1989 a na odvolacích krajských a především vrchních soudech a
+          Nejvyšším soudě jsou soudci jmenovaní ještě za minulého režimu, nemá
+          metrika míry rušení rozhodnutí odvolacím soudem výpovědní hodnotu.
+          Často se totiž stává, že odvolací soud (krajský nebo vrchní) a
+          dovolací Nejvyšší soud zruší rozhodnutí prvostupňového soudu, avšak
+          Ústavní soud poté zruší tato rušící rozhodnutí.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Bylo by součástí karty soudce i pravidelné hodnocení soudců?
+        </h2>
+        <p>
+          Pravidelné hodnocení soudců by mělo být prováděno malou skupinou lidí,
+          kteří na to mají dostatek času, kvalifikace a tréninku, aby tuto
+          činnost mohli provádět dobře. Vhodnou platformou na tuto činnost by
+          byla Rada pro soudnictví. Teze poslance Michálka k Radě pro soudnictví
+          jsou dostupné zde.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Proč neuděláte veřejnou kartou i jiných ústavních činitelů, např.
+          politiků?
+        </h2>
+        <p>
+          U politiků to již prakticky existuje. Například každý z poslanců má
+          profil na webu psp.cz, kde je zveřejněna jeho fotografie, datum
+          narození a sledována jeho aktivita.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Neporušujete práva účastníků řízení a nemůže karta soudce vést k
+          diskriminaci např. na základě pohlaví, rasy či věku?
+        </h2>
+        <p>
+          Vytváříme grafy vzešlé z dostatečného množství dat, přičemž z nich
+          nelze vyčíst nic o osobních údajích účastníků řízení.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Proč uvádíte rok narození soudce?
+        </h2>
+        <p>
+          Rok narození uvádíme, aby byl soudce dostatečně určitě identifikován a
+          aby byl znám jeho věk, přičemž rok narození není pro soudce jakožto
+          ústavního činitele údajem neúměrně zasahujícím do jeho soukromí. Tento
+          údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
+          zájmu ve smyslu čl. 6 odst. 1 písm. e) GDPR.
+        </p>
+      </section>
     </div>
   </div>
 </template>
@@ -980,6 +1061,10 @@
   @apply head-main text-2xl mb-4 mt-10;
 }
 
+.profile-section-subsubheadline {
+  @apply head-main text-xl mt-6;
+}
+
 .profile-section-note {
   @apply text-lg;
 }
@@ -1003,6 +1088,10 @@
 
   .profile-section-subheadline {
     @apply head-main text-3xl mb-4;
+  }
+
+  .profile-section-subsubheadline {
+    @apply head-main text-2xl;
   }
 
   .profile-section-note {
