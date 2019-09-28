@@ -13,6 +13,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.2.1",
     "@nuxtjs/font-awesome": "^1.0.4",
     "chart.js": "^2.8.0",
     "chartjs-plugin-deferred": "^1.0.1",

@@ -12,24 +12,21 @@
           ></small
         >
         <div
-          class="container px-4 md:px-8 hero flex flex-col items-center text-center text-white"
+          class="container px-4 md:px-8 md:pt-8 hero flex flex-col items-center text-center text-white"
         >
-          <span class="hero-scales"><i class="fa fa-balance-scale"></i></span>
-          <h1 class="hero-title head-super text-4xl md:text-7xl mb-4">
+          <h1 class="hero-title">
             Veřejná karta soudce
           </h1>
           <div class="hero-cite">
             <img src="~/static/img/jakub_michalek.jpg" class="hero-cite-face" />
-            <cite class="head-alt text-lg md:text-2xl"
+            <cite class="hero-cite-claim"
               >„Karta soudce má zajistit transparentnější justici, aby měla
               veřejnost přehled o základních informacích o soudcích a o jejich
               činnosti a výsledcích.“</cite
             >
-            <p class="mt-2 text-lg md:text-xl">
-              <strong
-                >Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního
-                výboru PSP ČR</strong
-              >
+            <p class="hero-cite-author">
+              Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru
+              PSP ČR
             </p>
           </div>
           <a
@@ -930,10 +927,7 @@
   left: 0;
   right: 0;
   z-index: 0;
-  background: linear-gradient(
-    rgba(10, 10, 10, 0.8),
-    rgba(10, 10, 10, 0.1) 150%
-  );
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1) 150%);
 }
 
 .lead-media {
@@ -954,7 +948,7 @@
   bottom: 1rem;
 
   color: #fff;
-  text-shadow: 0 0 12px rgba(0, 0, 0, 1);
+  text-shadow: 0 0 6px rgba(0, 0, 0, 1);
 
   @apply text-xs;
 
@@ -977,7 +971,7 @@
   opacity: 0.5;
   transition: opacity 0.3s ease-in-out;
 
-  @media (max-height: 650px) {
+  @media (max-height: 705px) {
     display: none;
   }
 }
@@ -996,32 +990,43 @@
 
 .hero-title {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
+
+  @apply head-super text-4xl;
+
+  @screen md {
+    @apply text-7xl mb-16;
+  }
 }
 
 .hero-cite {
-  @apply p-4 rounded max-w-4xl;
+  @apply max-w-4xl;
 
-  background: rgba(0, 0, 0, 0.4);
-  box-shadow: inset 0 0 2rem rgba(0, 0, 0, 0.5);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 1);
+}
+
+.hero-cite-claim {
+  @apply font-body font-black not-italic text-xl leading-tight;
+
+  @screen md {
+    @apply text-3xl;
+  }
+}
+
+.hero-cite-author {
+  @apply mt-2 text-lg font-medium;
+
+  @screen md {
+    @apply text-xl;
+  }
 }
 
 .hero-cite-face {
   display: block;
   margin: auto;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+  border: 2px #fff solid;
 
   @apply w-32 h-32 rounded-full mb-4 mt-4;
-}
-
-.hero-scales {
-  display: none;
-
-  @screen md {
-    @apply mb-4;
-
-    display: block;
-    font-size: 5rem;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
-  }
 }
 
 .toc {
