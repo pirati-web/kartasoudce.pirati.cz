@@ -8,7 +8,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'application-name', content: 'Veřejná karta soudce' },
+      { name: 'application-name', content: 'Karta soudce' },
       { name: 'author', content: 'Česká pirátská strana' },
       { name: 'msapplication-TileColor', content: '#000000' },
       {
@@ -143,7 +143,7 @@ export default {
   env: {
     host: process.env.HOST || 'https://kartasoudce.pirati.cz',
     siteInfo: {
-      name: process.env.SITE_NAME || 'Veřejná karta soudce',
+      name: process.env.SITE_NAME || 'Karta soudce',
       claim: process.env.SITE_CLAIM || 'I justice může být více transparentní',
       email: process.env.SITE_EMAIL || 'info@pirati.cz',
       phone: process.env.SITE_PHONE,
