@@ -17,13 +17,12 @@
         target="_blank"
         rel="noopener"
         >justice.cz</a
-      >, řízení 2013-2018, metodika použití dat
+      >, řízení 2013-2018,
       <a
-        href="https://docs.google.com/document/d/1hA6LwwUZa8KQZi0nIGuPFy41x_OPMN0k0l-1j9X4uLw/edit"
+        v-smooth-scroll="{ offset: 0, duration: 1000 }"
         class="underline"
-        target="_blank"
-        rel="noopener"
-        >zde</a
+        href="#data-methodology"
+        >zobrazit metodiku použití dat</a
       >.
     </p>
   </div>

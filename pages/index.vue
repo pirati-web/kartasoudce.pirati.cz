@@ -200,6 +200,7 @@
               <h1 id="decision-speed" class="profile-section-headline">
                 Rychlost rozhodování
               </h1>
+
               <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V případě, že jsou v řízení
                 průtahy, lze podat stížnost podle § 164, případně lze podat
@@ -223,75 +224,6 @@
             <section class="profile-section">
               <h1 id="major-decisions" class="profile-section-headline">
                 Významná rozhodnutí
-                <no-ssr>
-                  <v-popover>
-                    <button class="text-base ml-1 align-text-top">
-                      <i class="fa fa-question-circle" />
-                    </button>
-                    <template slot="popover">
-                      <h1 class="head-main text-lg mb-2">
-                        Metodika významných rozhodnutí
-                      </h1>
-                      <p>
-                        U daného soudce by byla možnost zobrazit si více filtrů
-                        rozhodnutí:
-                      </p>
-                      <ul class="list-disc list-outside ml-5 my-4">
-                        <li>všechna anonymizovaná rozhodnutí daného soudce,</li>
-                        <li>
-                          významná rozhodnutí po právní či společenské stránce
-                          (viz dále),
-                        </li>
-                        <li>
-                          rozhodnutí, u kterých byly shledány excesy rozhodnutím
-                          nadřízeného soudu, které nebylo později zrušeno,
-                        </li>
-                        <li>
-                          příp. nejlépe hodnocená rozhodnutí v reputačním
-                          systému.
-                        </li>
-                      </ul>
-                      <p>
-                        Významným rozhodnutím se myslí rozhodnutí významné po
-                        stránce právní či společenské (typicky významné kauzy
-                        veřejných činitelů, které se objevují v médiích). Za
-                        významné může rozhodnutí označit rozhodující soudce,
-                        kterýkoli jiný soudce působící na daném soudu včetně
-                        předsedy soudu, tiskový mluvčí soudu a dále předsedové
-                        soudů nebo senátů vyšších instancí. Významným
-                        rozhodnutím z právních důvodů je také rozhodnutí, které
-                        bylo publikováno v úřední sbírce rozhodnutí. Přesné
-                        vymezení minimální množiny významných rozhodnutí je
-                        uvedeno v Instrukci Ministerstva spravedlnosti ze dne
-                        20. června 2002, č. j. 20/2002-SM, kterou se upravuje
-                        postup při evidenci a zařazování rozhodnutí okresních,
-                        krajských a vrchních soudů do systému elektronické
-                        evidence soudní judikatury, která ovšem není zcela
-                        naplňována, viz šetření
-                        <a
-                          href="https://www.ochrance.cz/fileadmin/user_upload/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf"
-                          target="_blank"
-                          rel="noopener"
-                          class="underline"
-                          >ombudsmanky</a
-                        >
-                        a měla by být za tímto účelem novelizována.
-                      </p>
-                      <p class="pt-2">
-                        K diskuzi je, že by vedle uvedeného systému měly možnost
-                        označit rozhodnutí za společensky významné rovněž osoby,
-                        které by se zaregistrovaly do připraveného systému
-                        (například hvězdičkou) tak, jako je to v proprietárních
-                        databázích judikatury. Tím by vznikl reputační systém v
-                        databázi, ať už navázaný na citování nebo hodnocení
-                        uživateli. Aktivní možnost hvězdičkovat by mohla být
-                        omezena např. pouze na registrované uživatele z řad
-                        právnických profesí (tj. zejména advokáty, soudce,
-                        státní zástupce a jejich koncipienty či asistenty).
-                      </p>
-                    </template>
-                  </v-popover>
-                </no-ssr>
               </h1>
 
               <h2 class="profile-section-subheadline">
@@ -900,6 +832,85 @@
           ústavního činitele údajem neúměrně zasahujícím do jeho soukromí. Tento
           údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
           zájmu ve smyslu čl. 6 odst. 1 písm. e) GDPR.
+        </p>
+
+        <h2 class="profile-section-subsubheadline">
+          Metodika významných rozhodnutí
+        </h2>
+        <p>
+          U daného soudce by byla možnost zobrazit si více filtrů rozhodnutí:
+        </p>
+        <ul class="list-disc list-outside ml-5 my-4">
+          <li>všechna anonymizovaná rozhodnutí daného soudce,</li>
+          <li>
+            významná rozhodnutí po právní či společenské stránce (viz dále),
+          </li>
+          <li>
+            rozhodnutí, u kterých byly shledány excesy rozhodnutím nadřízeného
+            soudu, které nebylo později zrušeno,
+          </li>
+          <li>
+            příp. nejlépe hodnocená rozhodnutí v reputačním systému.
+          </li>
+        </ul>
+        <p>
+          Významným rozhodnutím se myslí rozhodnutí významné po stránce právní
+          či společenské (typicky významné kauzy veřejných činitelů, které se
+          objevují v médiích). Za významné může rozhodnutí označit rozhodující
+          soudce, kterýkoli jiný soudce působící na daném soudu včetně předsedy
+          soudu, tiskový mluvčí soudu a dále předsedové soudů nebo senátů
+          vyšších instancí. Významným rozhodnutím z právních důvodů je také
+          rozhodnutí, které bylo publikováno v úřední sbírce rozhodnutí. Přesné
+          vymezení minimální množiny významných rozhodnutí je uvedeno v
+          Instrukci Ministerstva spravedlnosti ze dne 20. června 2002, č. j.
+          20/2002-SM, kterou se upravuje postup při evidenci a zařazování
+          rozhodnutí okresních, krajských a vrchních soudů do systému
+          elektronické evidence soudní judikatury, která ovšem není zcela
+          naplňována, viz šetření
+          <a
+            href="https://www.ochrance.cz/fileadmin/user_upload/ESO/4292-15-JHO-vysledky_vyzkumu__849056_.pdf"
+            target="_blank"
+            rel="noopener"
+            class="underline"
+            >ombudsmanky</a
+          >
+          a měla by být za tímto účelem novelizována.
+        </p>
+        <p class="pt-2">
+          K diskuzi je, že by vedle uvedeného systému měly možnost označit
+          rozhodnutí za společensky významné rovněž osoby, které by se
+          zaregistrovaly do připraveného systému (například hvězdičkou) tak,
+          jako je to v proprietárních databázích judikatury. Tím by vznikl
+          reputační systém v databázi, ať už navázaný na citování nebo hodnocení
+          uživateli. Aktivní možnost hvězdičkovat by mohla být omezena např.
+          pouze na registrované uživatele z řad právnických profesí (tj. zejména
+          advokáty, soudce, státní zástupce a jejich koncipienty či asistenty).
+        </p>
+        <h2 id="data-methodology" class="profile-section-subsubheadline">
+          Metodika použití dat pro grafy
+        </h2>
+        <p>
+          Doba řízení se započítává, pokud nastanou následující události, po
+          kterých se řízení dostává do dispozice soudce: zahájení řízení, tedy v
+          okamžiku podání obžaloby, obživnutí věci typicky následující po
+          zrušujícím rozhodnutí odvolacího soudu, pokračování řízení poté, co
+          bylo přerušeno a vrácení spisu z jiného soudu. Zároveň však platí, že
+          se doba řízení přestává započítávat poté, kdy bylo řízení přerušeno,
+          bylo vydáno rozhodnutí, byla věc vyřízena, došlo k odeslání spisu na
+          jiný soud, byla věc skončena či došlo k pravomocnému ukončení věci.
+          Tyto typy událostí byly vybrány tak, aby se co nejvěrněji zachytila
+          doba, kdy má soudce věc "na stole", přičemž se vycházelo ze způsobu
+          zápisu jednotlivých událostí do databáze. Nezapočítávala se ta řízení,
+          u kterých bezprostředně po zahájení řízení následovalo v řádu jednotek
+          dnů vydání rozhodnutí, a to z důvodu, že se se vší pravděpodobností
+          jedná o trestní příkazy, které vzhledem k jejich odlišnému stylu
+          projednání nezapočítáváme, aby nezkreslily výsledek. Dále jsme
+          nezapočítali taková řízení, na kterých se podílelo více soudců.
+          Omezili jsme se pouze na řízení, která začala po 1. 1. 2013 a skončila
+          před 31. 12. 2018.
+        </p>
+        <p class="pt-2">
+          Srovnání probíhá se pouze v rámci agendy T, tedy trestních věcech.
         </p>
       </section>
     </div>
