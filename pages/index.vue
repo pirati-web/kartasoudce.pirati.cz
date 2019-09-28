@@ -2,7 +2,13 @@
   <div>
     <div class="pb-8 md:pb-24 lg:pb-48">
       <div class="lead flex items-center">
-        <img src="~/static/img/justicni_areal.jpg" class="lead-media" />
+        <img
+          :srcset="
+            require('~/static/img/justicni_areal.jpg?resize&sizes[]=320&sizes[]=640&sizes[]=1024&sizes[]=2048')
+              .srcSet
+          "
+          class="lead-media"
+        />
         <small class="lead-media-attribution"
           >Justiční areál v brněnských Štýřicích. Autor fotografie:
           <a
@@ -18,7 +24,13 @@
             Veřejná karta soudce
           </h1>
           <div class="hero-cite">
-            <img src="~/static/img/jakub_michalek.jpg" class="hero-cite-face" />
+            <img
+              :srcset="
+                require('~/static/img/jakub_michalek.jpg?resize&sizes[]=192&sizes[]=320&sizes[]=640&sizes[]=1024')
+                  .srcSet
+              "
+              class="hero-cite-face"
+            />
             <cite class="hero-cite-claim"
               >„Karta soudce má zajistit transparentnější justici, aby měla
               veřejnost přehled o základních informacích o soudcích a o jejich
@@ -147,7 +159,10 @@
                 </div>
                 <div class="lg:w-1/3 pb-4 lg:pb-0 lg:pl-4">
                   <img
-                    src="~/static/img/kralova.jpg"
+                    :srcset="
+                      require('~/static/img/kralova.jpg?resize&sizes[]=192&sizes[]=320&sizes[]=640&sizes[]=1024')
+                        .srcSet
+                    "
                     alt="JUDr. Helena Králová"
                     class="rounded max-w-full"
                   />
