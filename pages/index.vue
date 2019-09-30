@@ -176,7 +176,7 @@
                   rel="noopener"
                   target="_blank"
                   class="underline"
-                  >vyjádření prezidentky Úřadu pro ochranu osobních údajů</a
+                  >vyjádření předsedkyně Úřadu pro ochranu osobních údajů</a
                 >.
               </p>
             </section>
