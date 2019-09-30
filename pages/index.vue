@@ -825,7 +825,7 @@
         </h2>
         <p>
           U politiků to již prakticky existuje. Například každý z poslanců má
-          profil na webu psp.cz, kde je zveřejněna jeho fotografie, datum
+          profil na webu <a href="https://www.psp.cz/sqw/detail.sqw?id=6477">psp.cz</a>, kde je zveřejněna jeho fotografie, datum
           narození a sledována jeho aktivita.
         </p>
 
