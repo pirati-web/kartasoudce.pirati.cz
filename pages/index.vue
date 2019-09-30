@@ -187,7 +187,7 @@
               <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
                 uváděna pouze taková kárná rozhodnutí, která ukládají kárné
-                opatření a nedošlo k jejich zahlazení dle § 24 zákona o řízení
+                opatření a nedošlo k jejich zahlazení dle <a href="https://www.zakonyprolidi.cz/cs/2002-7#p24">§ 24</a> zákona o řízení
                 ve věcech soudců a státních zástupců.
               </p>
               <DisciplinaryOffense
