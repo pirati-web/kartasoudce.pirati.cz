@@ -218,8 +218,8 @@
 
               <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V případě, že jsou v řízení
-                průtahy, lze podat stížnost podle § 164, případně lze podat
-                návrh na určení lhůty k provedení procesního úkonu podle § 174a
+                průtahy, lze podat stížnost podle <a href="https://www.zakonyprolidi.cz/cs/2002-6#p164">§ 164</a> zákona o soudech a soudcích, případně lze podat
+                návrh na určení lhůty k provedení procesního úkonu podle <a href="https://www.zakonyprolidi.cz/cs/2002-6#p174">§ 174</a>
                 zákona o soudech a soudcích.
               </p>
               <div
@@ -246,8 +246,8 @@
               </h2>
               <p class="profile-section-note">
                 Opakované rušení rozhodnutí odvolacím soudem indikuje, že nebyl
-                respektován závazný právní názor odvolacího soudu. Přitom dle §
-                264 odst. 1 trestního řádu soud, jemuž věc byla vrácena k novému
+                respektován závazný právní názor odvolacího soudu. Přitom dle <a href="https://www.zakonyprolidi.cz/cs/1961-141?text=trestn%C3%AD+%C5%99%C3%A1d#p264">§
+                264 odst. 1</a> trestního řádu soud, jemuž věc byla vrácena k novému
                 projednání a rozhodnutí, je vázán právním názorem, který
                 vyslovil ve svém rozhodnutí odvolací soud, a je povinen provést
                 úkony a doplnění, jejichž provedení odvolací soud nařídil.
@@ -846,7 +846,7 @@
           aby byl znám jeho věk, přičemž rok narození není pro soudce jakožto
           ústavního činitele údajem neúměrně zasahujícím do jeho soukromí. Tento
           údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
-          zájmu ve smyslu čl. 6 odst. 1 písm. e) GDPR.
+          zájmu ve smyslu <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1">čl. 6 odst. 1 písm. e) GDPR</a>.
         </p>
 
         <h2 class="profile-section-subsubheadline">
