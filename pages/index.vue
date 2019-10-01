@@ -926,7 +926,14 @@
           uživateli. Aktivní možnost hvězdičkovat by mohla být omezena např.
           pouze na registrované uživatele z řad právnických profesí (tj. zejména
           advokáty, soudce, státní zástupce a jejich koncipienty či asistenty).
+          
         </p>
+        
+        <p class="pt-2">
+        Cílem zveřejňování významných rozhodnutí není pouze hodnocení práce soudců, ale
+        i informace občanům, aby rozsudky neměli pouze zprostředkovaně z médií.
+        </p>
+        
         <h2 id="data-methodology" class="profile-section-subsubheadline">
           Metodika použití dat pro grafy
         </h2>
