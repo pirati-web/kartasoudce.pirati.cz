@@ -953,13 +953,8 @@
         <p class="pt-2">
           Protože 
           Ministerstvo spravedlnosti nezveřejňuje data, na základě kterých by šlo 
-          porovnávat soudce v rámci specializací, měli jsme možnost
+          porovnávat soudce v rámci specializací, měli jsme tedy možnost
           pracovat s daty toliko obecně v rámci agendy T, tedy trestních věcech.
-        </p>
-        <p class="pt-2">
-          ministerstvo nezveřejňuje data, abychom mohli udělat data na míru v rámci
-          jednotlivých specializací v rámci agendy, proto to máme možnost s těmi daty
-          pracovat pouze takto; toto lze napsat do metodiky
         </p>
       </section>
     </div>
