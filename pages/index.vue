@@ -872,7 +872,7 @@
           <a
             href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"class="underline"
             >čl. 6 odst. 1 písm. e) GDPR</a
-          >.
+          >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání soudce v obchodním rejstříku.
         </p>
 
         <h2 class="profile-section-subsubheadline">
