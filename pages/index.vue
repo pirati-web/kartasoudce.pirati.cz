@@ -870,7 +870,7 @@
           údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
           zájmu ve smyslu
           <a
-            href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"
+            href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"class="underline"
             >čl. 6 odst. 1 písm. e) GDPR</a
           >.
         </p>
