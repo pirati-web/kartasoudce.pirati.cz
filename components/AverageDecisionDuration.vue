@@ -42,9 +42,8 @@ export default {
         datasets: [
           {
             data: [113, 137],
-            backgroundColor: ['rgba(0, 0, 0, 0.05)', 'rgba(0, 0, 0, 0.6)'],
-            borderColor: ['rgba(0, 0, 0, 0.2)', 'rgba(0, 0, 0, 1)'],
-            borderWidth: 2
+            backgroundColor: ['rgb(195, 227, 225)', 'rgb(136, 205, 206)'],
+            borderWidth: 0
           }
         ]
       },
@@ -70,6 +69,7 @@ export default {
           yAxes: [
             {
               ticks: {
+                fontColor: '#2B3D52',
                 fontStyle: '700'
               }
             }

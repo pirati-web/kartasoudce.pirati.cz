@@ -117,9 +117,8 @@ export default {
               0.0,
               0.0
             ],
-            backgroundColor: 'rgba(0, 0, 0, 0.05)',
-            borderColor: 'rgba(0, 0, 0, 0.2)',
-            borderWidth: 2
+            backgroundColor: 'rgb(195, 227, 225)',
+            borderWidth: 0
           },
           {
             label: 'JUDr. Helena Králová',
@@ -153,9 +152,8 @@ export default {
               0.29,
               0.0
             ],
-            backgroundColor: 'rgba(0, 0, 0, 0.6)',
-            borderColor: 'rgba(0, 0, 0, 1)',
-            borderWidth: 2
+            backgroundColor: 'rgb(136, 205, 206)',
+            borderWidth: 0
           }
         ]
       },
@@ -194,6 +192,7 @@ export default {
               },
               ticks: {
                 fontStyle: '700',
+                fontColor: '#2B3D52',
                 callback(value, index, values) {
                   return value + '%'
                 }
@@ -242,6 +241,7 @@ export default {
               },
               ticks: {
                 fontStyle: '700',
+                fontColor: '#2B3D52',
                 max: 5,
                 callback(value, index, values) {
                   return value + '%'

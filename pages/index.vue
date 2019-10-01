@@ -187,8 +187,9 @@
               <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
                 uváděna pouze taková kárná rozhodnutí, která ukládají kárné
-                opatření a nedošlo k jejich zahlazení dle <a href="https://www.zakonyprolidi.cz/cs/2002-7#p24">§ 24</a> zákona o řízení
-                ve věcech soudců a státních zástupců.
+                opatření a nedošlo k jejich zahlazení dle
+                <a href="https://www.zakonyprolidi.cz/cs/2002-7#p24">§ 24</a>
+                zákona o řízení ve věcech soudců a státních zástupců.
               </p>
               <DisciplinaryOffense
                 year="2018"
@@ -218,8 +219,11 @@
 
               <p class="profile-section-note">
                 <i class="fa fa-info-circle" /> V případě, že jsou v řízení
-                průtahy, lze podat stížnost podle <a href="https://www.zakonyprolidi.cz/cs/2002-6#p164">§ 164</a> zákona o soudech a soudcích, případně lze podat
-                návrh na určení lhůty k provedení procesního úkonu podle <a href="https://www.zakonyprolidi.cz/cs/2002-6#p174">§ 174</a>
+                průtahy, lze podat stížnost podle
+                <a href="https://www.zakonyprolidi.cz/cs/2002-6#p164">§ 164</a>
+                zákona o soudech a soudcích, případně lze podat návrh na určení
+                lhůty k provedení procesního úkonu podle
+                <a href="https://www.zakonyprolidi.cz/cs/2002-6#p174">§ 174</a>
                 zákona o soudech a soudcích.
               </p>
               <div
@@ -246,11 +250,15 @@
               </h2>
               <p class="profile-section-note">
                 Opakované rušení rozhodnutí odvolacím soudem indikuje, že nebyl
-                respektován závazný právní názor odvolacího soudu. Přitom dle <a href="https://www.zakonyprolidi.cz/cs/1961-141?text=trestn%C3%AD+%C5%99%C3%A1d#p264">§
-                264 odst. 1</a> trestního řádu soud, jemuž věc byla vrácena k novému
-                projednání a rozhodnutí, je vázán právním názorem, který
-                vyslovil ve svém rozhodnutí odvolací soud, a je povinen provést
-                úkony a doplnění, jejichž provedení odvolací soud nařídil.
+                respektován závazný právní názor odvolacího soudu. Přitom dle
+                <a
+                  href="https://www.zakonyprolidi.cz/cs/1961-141?text=trestn%C3%AD+%C5%99%C3%A1d#p264"
+                  >§ 264 odst. 1</a
+                >
+                trestního řádu soud, jemuž věc byla vrácena k novému projednání
+                a rozhodnutí, je vázán právním názorem, který vyslovil ve svém
+                rozhodnutí odvolací soud, a je povinen provést úkony a doplnění,
+                jejichž provedení odvolací soud nařídil.
               </p>
 
               <Decision
@@ -825,8 +833,9 @@
         </h2>
         <p>
           U politiků to již prakticky existuje. Například každý z poslanců má
-          profil na webu <a href="https://www.psp.cz/sqw/detail.sqw?id=6477">psp.cz</a>, kde je zveřejněna jeho fotografie, datum
-          narození a sledována jeho aktivita.
+          profil na webu
+          <a href="https://www.psp.cz/sqw/detail.sqw?id=6477">psp.cz</a>, kde je
+          zveřejněna jeho fotografie, datum narození a sledována jeho aktivita.
         </p>
 
         <h2 class="profile-section-subsubheadline">
@@ -846,7 +855,11 @@
           aby byl znám jeho věk, přičemž rok narození není pro soudce jakožto
           ústavního činitele údajem neúměrně zasahujícím do jeho soukromí. Tento
           údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
-          zájmu ve smyslu <a href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1">čl. 6 odst. 1 písm. e) GDPR</a>.
+          zájmu ve smyslu
+          <a
+            href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"
+            >čl. 6 odst. 1 písm. e) GDPR</a
+          >.
         </p>
 
         <h2 class="profile-section-subsubheadline">
