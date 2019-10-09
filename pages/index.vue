@@ -741,6 +741,24 @@
                 Ústavním soudem potvrzená či ve sbírce rozhodnutí publikovaná
                 rozhodnutí
               </h2>
+
+              <Decision
+                year="2007"
+                title="rozsudek OS Praha 1 ze dne 6. 3. 2007, sp. zn. 3 T 51/2006"
+                status="Rozhodnutí potvrzeno Ústavním soudem v usnesení sp. zn. IV.ÚS 3121/07"
+              >
+                <ul class="list-disc list-outside ml-5">
+                  <li>
+                    <a
+                      href="/attachments/priloha_714967380_0_3T51-2006_Redigováno_OCR.pdf"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >text rozsudku</a
+                    >
+                  </li>
+                </ul>
+              </Decision>
             </section>
             <section class="profile-section">
               <h1 id="decision-speed" class="profile-section-headline">
