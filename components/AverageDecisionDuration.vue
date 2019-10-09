@@ -25,6 +25,11 @@
         >zobrazit metodiku použití dat</a
       >.
     </p>
+    <p class="text-sm text-center mt-1">
+      Počet řízení, ze kterých grafy vychází: Celkem řízení: 2878, z toho H.
+      Králová 370;<br />směrodatná odchylka soudu - 202,8, směrodatná odchylka
+      H. Králové - 266,52.
+    </p>
   </div>
 </template>
 
