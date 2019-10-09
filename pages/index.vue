@@ -163,9 +163,10 @@
                       require('~/static/img/kralova.jpg?resize&sizes[]=192&sizes[]=320&sizes[]=640&sizes[]=1024')
                         .srcSet
                     "
-                    alt="JUDr. Helena Králová"
+                    alt="JUDr. Helena Králová, Zdroj: ČTK/Zehl Igor"
                     class="rounded max-w-full"
                   />
+                  <p class="text-sm pt-1">Zdroj: ČTK/Zehl Igor</p>
                 </div>
               </div>
               <p class="profile-section-note mt-8">
@@ -870,9 +871,11 @@
           údaj považujeme za nezbytný pro splnění úkolu prováděného ve veřejném
           zájmu ve smyslu
           <a
-            href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"class="underline"
+            href="https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:32016R0679&from=CS#d1e1880-1-1"
+            class="underline"
             >čl. 6 odst. 1 písm. e) GDPR</a
-          >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání soudce v obchodním rejstříku.
+          >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání
+          soudce v obchodním rejstříku.
         </p>
 
         <h2 class="profile-section-subsubheadline">
@@ -926,14 +929,14 @@
           uživateli. Aktivní možnost hvězdičkovat by mohla být omezena např.
           pouze na registrované uživatele z řad právnických profesí (tj. zejména
           advokáty, soudce, státní zástupce a jejich koncipienty či asistenty).
-          
         </p>
-        
+
         <p class="pt-2">
-        Cílem zveřejňování významných rozhodnutí není pouze hodnocení práce soudců, ale
-        i informace občanům, aby rozsudky neměli pouze zprostředkovaně z médií.
+          Cílem zveřejňování významných rozhodnutí není pouze hodnocení práce
+          soudců, ale i informace občanům, aby rozsudky neměli pouze
+          zprostředkovaně z médií.
         </p>
-        
+
         <h2 id="data-methodology" class="profile-section-subsubheadline">
           Metodika použití dat pro grafy
         </h2>
@@ -958,10 +961,10 @@
           před 31. 12. 2018.
         </p>
         <p class="pt-2">
-          Protože 
-          Ministerstvo spravedlnosti nezveřejňuje data, na základě kterých by šlo 
-          porovnávat soudce v rámci specializací, měli jsme tedy možnost
-          pracovat s daty toliko obecně v rámci agendy T, tedy trestních věcech.
+          Protože Ministerstvo spravedlnosti nezveřejňuje data, na základě
+          kterých by šlo porovnávat soudce v rámci specializací, měli jsme tedy
+          možnost pracovat s daty toliko obecně v rámci agendy T, tedy trestních
+          věcech.
         </p>
       </section>
     </div>
