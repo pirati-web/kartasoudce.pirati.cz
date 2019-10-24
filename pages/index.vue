@@ -222,6 +222,17 @@
                 Významná rozhodnutí
               </h1>
 
+              <p>
+                <i class="fa fa-info-circle" /> Co je a co není významné
+                rozhodnutí posuzujeme
+                <a
+                  v-smooth-scroll="{ offset: 0, duration: 1000 }"
+                  href="#important-decision-methodology"
+                  class="underline"
+                  >dle metodiky</a
+                >.
+              </p>
+
               <h2 class="profile-section-subheadline">
                 Kauzy, kdy bylo rozhodnutí opakovaně rušeno nadřízeným soudem
               </h2>
@@ -896,7 +907,10 @@
           soudce v obchodním rejstříku.
         </p>
 
-        <h2 class="profile-section-subsubheadline">
+        <h2
+          id="important-decision-methodology"
+          class="profile-section-subsubheadline"
+        >
           Metodika významných rozhodnutí
         </h2>
         <p>
