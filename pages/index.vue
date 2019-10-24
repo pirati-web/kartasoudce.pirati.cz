@@ -93,6 +93,11 @@
                       >
                     </li>
                     <li class="profile-navbar-item">
+                      <a class="scrollactive-item" href="#published-works"
+                        >Publikační činnost</a
+                      >
+                    </li>
+                    <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#other">Další data</a>
                     </li>
                   </ul>
@@ -808,6 +813,21 @@
               </div>
             </section>
             <section class="profile-section">
+              <h1 id="published-works" class="profile-section-headline">
+                Publikační činnost
+              </h1>
+
+              <h2 class="profile-section-subheadline">Závěrečné práce</h2>
+
+              <PublishedWork
+                year="1981"
+                title="Úhrnný trest"
+                type="Rigorózní práce"
+                summary-caption="Zobrazit závěry práce"
+                summary-link="https://drive.google.com/file/d/16lLDwSsZ9Va3fW2ewFGYJYGsuG6bPJKU/view"
+              ></PublishedWork>
+            </section>
+            <section class="profile-section">
               <h1 id="other" class="profile-section-headline">
                 Další data, která chceme zveřejnit
               </h1>
@@ -1241,6 +1261,7 @@
 <script>
 import Decision from '~/components/Decision.vue'
 import DisciplinaryOffense from '~/components/DisciplinaryOffense.vue'
+import PublishedWork from '~/components/PublishedWork.vue'
 
 import AverageDecisionDuration from '~/components/AverageDecisionDuration.vue'
 import DecisionTimeHistogram from '~/components/DecisionTimeHistogram.vue'
@@ -1252,7 +1273,8 @@ export default {
     Decision,
     DecisionTimeHistogram,
     DisciplinaryOffense,
-    LongestDecisionTime
+    LongestDecisionTime,
+    PublishedWork
   },
   methods: {
     scrollToMainContent() {
