@@ -745,12 +745,12 @@
               <Decision
                 year="2007"
                 title="rozsudek OS Praha 1 ze dne 6. 3. 2007, sp. zn. 3 T 51/2006"
-                status="Rozhodnutí potvrzeno Ústavním soudem v usnesení sp. zn. IV.ÚS 3121/07"
+                note="Rozhodnutí potvrzeno Ústavním soudem v usnesení sp. zn. IV.ÚS 3121/07"
               >
                 <ul class="list-disc list-outside ml-5">
                   <li>
                     <a
-                      href="/attachments/priloha_714967380_0_3T51-2006_Redigováno_OCR.pdf"
+                      href="https://drive.google.com/file/d/1PvDHJ5AsXodbqH6j6tz4kJ0gdydmNozr/view"
                       target="_blank"
                       rel="noopener"
                       class="underline"

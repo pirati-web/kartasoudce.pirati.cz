@@ -5,6 +5,10 @@
       <h1 class="head-main text-xl">{{ title }}</h1>
       <slot></slot>
 
+      <div v-if="note" class="mt-4">
+        <p>{{ note }}</p>
+      </div>
+
       <div
         v-if="status || proceedingsLink"
         class="flex flex-col md:flex-row items-center mt-4 justify-between"
@@ -39,6 +43,10 @@ export default {
       required: true
     },
     title: {
+      type: String,
+      required: true
+    },
+    note: {
       type: String,
       required: true
     },
