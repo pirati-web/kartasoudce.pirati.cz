@@ -48,7 +48,8 @@ export default {
     },
     note: {
       type: String,
-      required: true
+      required: false,
+      default: null
     },
     proceedingsLink: {
       type: String,

@@ -98,6 +98,9 @@
                       >
                     </li>
                     <li class="profile-navbar-item">
+                      <a class="scrollactive-item" href="#salary">Výše platu</a>
+                    </li>
+                    <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#other">Další data</a>
                     </li>
                   </ul>
@@ -826,6 +829,32 @@
                 summary-caption="Zobrazit závěry práce"
                 summary-link="https://drive.google.com/file/d/16lLDwSsZ9Va3fW2ewFGYJYGsuG6bPJKU/view"
               ></PublishedWork>
+            </section>
+            <section class="profile-section">
+              <h1 id="salary" class="profile-section-headline">
+                Výše platu
+              </h1>
+
+              <div class="flex flex-col sm:flex-row">
+                <h2 class="head-super text-2xl">2018</h2>
+                <div class="sm:pl-8 text-lg">
+                  <p>
+                    Platová základna <strong>84,234 Kč</strong> x platový
+                    koeficient <strong>1,51</strong> =
+                    <strong>127,200 Kč/měsíc</strong>
+                  </p>
+                  <p class="pt-4 sm:pt-0">
+                    V březnu 2018 uloženo kárné opatření 15% snížení platu na
+                    dobu 1 roku.
+                  </p>
+                </div>
+              </div>
+
+              <p class="profile-section-note pt-8">
+                <i class="fa fa-info-circle" /> Platová základna vychází ze
+                sdělení Ministerstva práce a sociálních věcí č. 439/2017 Sb. a
+                platový koeficient vychází z § 28 odst. 1 zákona č. 236/1995 Sb.
+              </p>
             </section>
             <section class="profile-section">
               <h1 id="other" class="profile-section-headline">
