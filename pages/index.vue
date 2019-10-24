@@ -852,9 +852,21 @@
               </div>
 
               <p class="profile-section-note pt-8">
-                <i class="fa fa-info-circle" /> Platová základna vychází ze
-                sdělení Ministerstva práce a sociálních věcí č. 439/2017 Sb. a
-                platový koeficient vychází z § 28 odst. 1 zákona č. 236/1995 Sb.
+                <i class="fa fa-info-circle" /> Platová základna vychází ze sdělení Ministerstva práce a sociálních věcí <a
+                        href="https://www.zakonyprolidi.cz/cs/2017-439"
+                        target="_blank"
+                        rel="noopener"
+                        class="underline"
+                        > č. 439/2017 Sb.</a
+                      >
+                 a
+                 
+                platový koeficient vychází z <a
+                        href="https://www.zakonyprolidi.cz/cs/1995-236#p28"
+                        target="_blank"
+                        rel="noopener"
+                        class="underline"
+                        > § 28 odst. 1 zákona č. 236/1995 Sb.</a>
               </p>
             </section>
             <section class="profile-section">
