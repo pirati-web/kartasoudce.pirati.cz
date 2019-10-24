@@ -6,13 +6,8 @@
       style="position: relative; height: 25rem; width: 40rem; max-height: 50vh; max-width: 100%;"
     />
     <p class="text-sm text-center mt-1">
-      Zdroj: Výkaz CSLAV za období od 1. 1. do 31. 12. 2018,
-      <a
-        v-smooth-scroll="{ offset: 0, duration: 1000 }"
-        class="underline"
-        href="#data-methodology"
-        >zobrazit metodiku použití dat</a
-      >.
+      Zdroj: Výkaz CSLAV za období od 1. 1. do 31. 12. 2018
+      
     </p>
   </div>
 </template>
