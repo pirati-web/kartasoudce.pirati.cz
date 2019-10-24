@@ -804,6 +804,7 @@
               <div
                 class="flex flex-col flex-no-wrap items-center justify-center content-center"
               >
+                <ProcessingDuration id="processing-duration" class="chart" />
                 <AverageDecisionDuration
                   id="avg-decision-duration"
                   class="chart"
@@ -1295,6 +1296,7 @@ import PublishedWork from '~/components/PublishedWork.vue'
 import AverageDecisionDuration from '~/components/AverageDecisionDuration.vue'
 import DecisionTimeHistogram from '~/components/DecisionTimeHistogram.vue'
 import LongestDecisionTime from '~/components/LongestDecisionTime.vue'
+import ProcessingDuration from '~/components/ProcessingDuration.vue'
 
 export default {
   components: {
@@ -1303,12 +1305,11 @@ export default {
     DecisionTimeHistogram,
     DisciplinaryOffense,
     LongestDecisionTime,
+    ProcessingDuration,
     PublishedWork
   },
   methods: {
-    scrollToMainContent() {
-      console.log('scroll')
-    }
+    scrollToMainContent() {}
   }
 }
 </script>
