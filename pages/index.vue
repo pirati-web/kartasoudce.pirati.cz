@@ -98,7 +98,7 @@
                       >
                     </li>
                     <li class="profile-navbar-item">
-                      <a class="scrollactive-item" href="#salary">Výše platu</a>
+                      <a class="scrollactive-item" href="#salary">Plat</a>
                     </li>
                     <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#other">Další data</a>
