@@ -840,9 +840,9 @@
                 <h2 class="head-super text-2xl">2018</h2>
                 <div class="sm:pl-8 text-lg">
                   <p>
-                    Platová základna <strong>84,234 Kč</strong> x platový
+                    Platová základna <strong>84.234 Kč</strong> x platový
                     koeficient <strong>1,51</strong> =
-                    <strong>127,200 Kč/měsíc</strong>
+                    <strong>127.200 Kč/měsíc</strong>
                   </p>
                   <p class="pt-4 sm:pt-0">
                     V březnu 2018 uloženo kárné opatření 15% snížení platu na
