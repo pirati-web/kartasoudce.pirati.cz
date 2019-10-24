@@ -833,7 +833,7 @@
             </section>
             <section class="profile-section">
               <h1 id="salary" class="profile-section-headline">
-                Výše platu
+                Plat
               </h1>
 
               <div class="flex flex-col sm:flex-row">
