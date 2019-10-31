@@ -131,8 +131,11 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Působiště:</div>
                     <div class="personal-data-value">
-                      Obvodní soud pro Prahu 1
+                      1990 až současnost - Obvodní soud pro Prahu 1
+                       </div>
+                       1979 až 1988 Okresní soud v Karlových Varech
                     </div>
+                    1975 až 1979 soudkyně Okresního soudu v Chebu
                   </div>
                   <div class="personal-data-item">
                     <div class="personal-data-label">Soudcem od roku:</div>
