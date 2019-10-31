@@ -134,6 +134,7 @@
                       Obvodní soud pro Prahu 1
                        
                   </div>
+                  </div>
                   <div class="personal-data-item">
                     <div class="personal-data-label">Soudcem od roku:</div>
                     <div class="personal-data-value">1975 (OS Cheb)</div>
