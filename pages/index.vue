@@ -905,6 +905,18 @@
           rozhodně na úkor kvality rozhodnutí být nemělo. Cílem sledování je
           spíše nacházet výrazné excesy v rychlosti rozhodování.
         </p>
+        
+        <h2 class="profile-section-subsubheadline">
+          Existuje měření délek řízení v zahraničí?
+        </h2>
+        <p>
+         Ano. Například v Německu existuje tzv. systém výpočtu personálních požadavků soudních orgánů (německá zkratka PEBB§Y), který určuje, kolik času
+         je potřeba pro každou činnost, aby bylo možné určit potřebný počet soudců, státních zástupců a soudních úředníků. Výpočetní systém PEBB§Y
+         je založen na vzorci pro průměrnou dobu zpracování určité činnosti vyjádřenou v minutách. Každému typu činnosti je pak přiřažena určitá minutová 
+         dotace.
+         
+         
+       </p>
 
         <h2 class="profile-section-subsubheadline">
           Proč není měřena míra rušení rozhodnutí nadřízeným soudem?
