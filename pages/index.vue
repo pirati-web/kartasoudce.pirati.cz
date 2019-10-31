@@ -929,7 +929,13 @@
           kteří na to mají dostatek času, kvalifikace a tréninku, aby tuto
           činnost mohli provádět dobře. Vhodnou platformou na tuto činnost by
           byla Rada pro soudnictví. Teze poslance Michálka k Radě pro soudnictví
-          jsou dostupné zde.
+          jsou dostupné <a
+            href="https://drive.google.com/file/d/1bHGQQaw0jz6bPSyD0x5_BJYCOAH069OS/view"
+            class="underline"
+            >zde</a
+          >. 
+          
+  
         </p>
 
         <h2 class="profile-section-subsubheadline">
