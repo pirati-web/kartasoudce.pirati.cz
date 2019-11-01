@@ -131,9 +131,9 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Působiště:</div>
                     <div class="personal-data-value">
-                      1990 - současnost   OS pro Prahu 1
+                      1990 - současnost   OS pro Prahu 1 <br>
                       
-                  1979 – 1988    OS Karlovy Vary
+                  1979 – 1988    OS Karlovy Vary <br>
                   1975 - 1979    OS Cheb
                       
                       
