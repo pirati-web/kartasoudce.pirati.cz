@@ -131,7 +131,8 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Působiště:</div>
                     <div class="personal-data-value">
-                      1990 - současnost   OS pro Prahu 1 (1996 až 2002 místopředsedkyní) <br>
+                      1990 - současnost   OS pro Prahu 1 <br> 
+                      1996 - 2002 místopředsedkyně <br>
                       
                   1979 – 1988    OS Karlovy Vary <br>
                   1975 - 1979    OS Cheb
