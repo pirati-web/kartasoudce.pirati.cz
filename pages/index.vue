@@ -995,8 +995,9 @@
           soudce v obchodním rejstříku.
           
           <br>
+           <br>
           
-          Fotografie jsou zveřejněny pouze u soudců, kteří vykonávají či v minulosti vykonávali funkcionářskou funkci, tedy byli předsedou
+          Fotografie je uvedena pouze u soudců, kteří vykonávají či v minulosti vykonávali funkcionářskou funkci, tedy byli předsedou
           nebo místopředsedou soudu.
         </p>
 
