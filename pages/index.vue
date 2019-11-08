@@ -994,9 +994,9 @@
           >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání
           soudce v obchodním rejstříku.
           
-          <br>
-           <br>
           
+      <p class="pt-2">
+      
           Fotografie je uvedena pouze u soudců, kteří vykonávají či v minulosti vykonávali funkcionářskou funkci, tedy byli předsedou
           nebo místopředsedou soudu.
         </p>
