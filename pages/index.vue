@@ -958,7 +958,7 @@
         </p>
 
         <h2 class="profile-section-subsubheadline">
-          Proč neuděláte veřejnou kartou i jiných ústavních činitelů, např.
+          Proč neuděláte veřejnou kartu i jiných ústavních činitelů, např.
           politiků?
         </h2>
         <p>
@@ -978,7 +978,7 @@
         </p>
 
         <h2 class="profile-section-subsubheadline">
-          Proč uvádíte rok narození soudce?
+          Proč uvádíte rok narození a fotografii soudce?
         </h2>
         <p>
           Rok narození uvádíme, aby byl soudce dostatečně určitě identifikován a
@@ -992,6 +992,11 @@
             >čl. 6 odst. 1 písm. e) GDPR</a
           >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání
           soudce v obchodním rejstříku.
+          
+          <br>
+          
+          Fotografie jsou zveřejněny pouze u soudců, kteří vykonávají či v minulosti vykonávali funkcionářskou funkci, tedy byli předsedou
+          nebo místopředsedou soudu.
         </p>
 
         <h2
