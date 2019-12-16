@@ -43,7 +43,7 @@ export default {
   data() {
     return {
       chartData: {
-        labels: ['OS Praha 1', 'JUDr. Králová Hana'],
+        labels: ['OS Praha 1', 'JUDr. Helena Králová'],
         datasets: [
           {
             data: [113, 137],
