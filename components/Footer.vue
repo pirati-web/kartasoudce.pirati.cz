@@ -31,7 +31,7 @@
         class="container container-resp flex-col text-center text-brand-graydark py-8"
       >
         <div>
-          <span class="flip-x">&copy;</span>&nbsp;Piráti,&nbsp;2019. Všechna
+          <span class="flip-x">&copy;</span>&nbsp;Piráti,&nbsp;2019 - {{ year }}. Všechna
           práva vyhlazena. Sdílejte a nechte ostatní sdílet za stejných
           podmínek.
         </div>
@@ -66,7 +66,8 @@
 <script>
 export default {
   data: () => ({
-    siteInfo: process.env.siteInfo
+    siteInfo: process.env.siteInfo,
+    year: new Date().getFullYear()
   })
 }
 </script>
