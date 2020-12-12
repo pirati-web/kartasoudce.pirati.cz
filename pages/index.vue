@@ -131,15 +131,15 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Působiště:</div>
                     <div class="personal-data-value">
-                      1990 - současnost   OS pro Prahu 1 <br> 
+                      1990 - současnost   OS pro Prahu 1 <br>
                       1996 - 2002 místopředsedkyně <br>
-                      
+
                   1979 – 1988    OS Karlovy Vary <br>
                   1975 - 1979    OS Cheb
-                      
-                      
-                      
-                       
+
+
+
+
                   </div>
                   </div>
                   <div class="personal-data-item">
@@ -269,8 +269,6 @@
               <Decision
                 year="2014"
                 title="Kauza Nagyová – Vojenské zpravodajství – sp. zn. 3 T 35/2014"
-                status="nyní již pravomocně skončeno"
-                status-link="http://infosoud.justice.cz/InfoSoud/public/list.do?druhVec=T&rocnik=2014&cisloSenatu=3&bcVec=35&kraj=MSPHAAB&org=OSPHA01&poradiUdalosti=171&cisloSenatuLabel=3&typSoudu=os&agendaNc=CIVIL&druhUdalosti=ST_VEC_PUK&idUdalosti=null&druhVecId=T&rocnikId=2014&cisloSenatuId=3&bcVecId=35&orgId=OSPHA01"
                 proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do;jsessionid=FJeq2WGPsLqFODvs7Mqmf_U6UaTIW-sbDMedlzDs.infosoud01?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=35&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
               >
                 <ul class="list-disc list-outside ml-5">
@@ -374,7 +372,6 @@
               <Decision
                 year="2011"
                 title="Kauza generálního sekretáře MZV – sp. zn. 3 T 91/2011"
-                status="dosud pravomocně neskončeno"
                 proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=91&rocnik=2011&spamQuestion=23&agendaNc=CIVIL"
               >
                 <ul class="list-disc list-outside ml-5">
@@ -431,45 +428,9 @@
                       class="underline"
                       >zrušující usnesení MS Praha ze dne 7. 1. 2016</a
                     >
-                    &mdash; Rozhodnutí bylo zrušeno jako nezákonné a MS Praha
-                    zároveň nařídil, aby byla věc projednána jiným soudcem
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1C-palc2yIRh911YZ06qJNiNlgnbMjX3O/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zprošťující rozsudek OS Praha 1 ze dne 9. 5. 2016</a
-                    >
-                    (jiný soudce)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1jByz7RP5Hum1ocgbovVAv48P_psAItN8/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zrušující usnesení MS Praha ze dne 27. 7. 2016</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1CpNcl3vvC-5qlR6pzaRiISvQdLOnytH0/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zprošťující rozsudek OS Praha 1 ze dne 7. 11. 2016</a
-                    >
-                    (jiný soudce)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1wprr-lgcbSmsTpu4j-_7Kdot7RziBQLo/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zrušující usnesení MS Praha ze dne 8. 6. 2017</a
+                    &mdash; <strong
+                      >rozhodnutí bylo zrušeno jako nezákonné a MS Praha zároveň
+                      nařídil, aby byla věc projednána jiným soudcem</strong
                     >
                   </li>
                 </ul>
@@ -477,7 +438,6 @@
               <Decision
                 year="2010"
                 title="Kauza bývalých manažerů ČEPRO – sp. zn. 3 T 41/2010"
-                status="dosud pravomocně neskončeno"
                 proceedings-link="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=41&rocnik=2010&spamQuestion=23&agendaNc=CIVIL"
               >
                 <ul class="list-disc list-outside ml-5">
@@ -600,19 +560,10 @@
                       class="underline"
                       >opětovné zrušení zprošťujícího rozsudku</a
                     >
-                    MS Praha ze dne 4. 4. 2017 &mdash; Rozhodnutí bylo zrušeno
-                    jako nezákonné a MS Praha zároveň nařídil, aby byla věc
-                    projednána jiným soudcem
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/15qvroP6CbpekK1-oT1yWEyd_gSnDJZ3Q/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >odsuzující rozsudek</a
+                    MS Praha ze dne 4. 4. 2017 &mdash; <strong
+                      >rozhodnutí bylo zrušeno jako nezákonné a MS Praha zároveň
+                      nařídil, aby byla věc projednána jiným soudcem</strong
                     >
-                    OS Praha 1 ze dne 21. 3. 2018 &mdash; rozhodoval jiný soudce
                   </li>
                 </ul>
               </Decision>
@@ -653,12 +604,9 @@
               <Decision
                 year="2012"
                 title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
+                proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
               >
-                <ul
-                  class="list-disc list-outside ml-5"
-                  status="pravomocně skončeno"
-                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
-                >
+                <ul class="list-disc list-outside ml-5">
                   <li>
                     <a
                       href="https://drive.google.com/file/d/18QLswUjz1Om5b4NL_26-nC-DR69Dajal/view"
@@ -674,7 +622,6 @@
               <Decision
                 year="1997"
                 title="Případ vydírání ze strany devíti pražských taxikářů v kauze Thorges"
-                status="pravomocně skončeno"
               >
                 <ul class="list-disc list-outside ml-5">
                   <li>
@@ -868,7 +815,7 @@
                         > č. 439/2017 Sb.</a
                       >
                  a
-                 
+
                 platový koeficient vychází z <a
                         href="https://www.zakonyprolidi.cz/cs/1995-236#p28"
                         target="_blank"
@@ -913,17 +860,17 @@
           rozhodně na úkor kvality rozhodnutí být nemělo. Cílem sledování je
           spíše nacházet výrazné excesy v rychlosti rozhodování.
         </p>
-        
+
         <h2 class="profile-section-subsubheadline">
           Existuje měření délek řízení v zahraničí?
         </h2>
         <p>
          Ano. Například v Německu existuje tzv. systém výpočtu personálních požadavků soudních orgánů (německá zkratka PEBB§Y), který určuje, kolik času
          je potřeba pro každou činnost, aby bylo možné určit potřebný počet soudců, státních zástupců a soudních úředníků. Výpočetní systém PEBB§Y
-         je založen na vzorci pro průměrnou dobu zpracování určité činnosti vyjádřenou v minutách. Každému typu činnosti je pak přiřažena určitá minutová 
+         je založen na vzorci pro průměrnou dobu zpracování určité činnosti vyjádřenou v minutách. Každému typu činnosti je pak přiřažena určitá minutová
          dotace.
-         
-         
+
+
        </p>
 
         <h2 class="profile-section-subsubheadline">
@@ -953,9 +900,9 @@
             href="https://drive.google.com/file/d/1bHGQQaw0jz6bPSyD0x5_BJYCOAH069OS/view"
             class="underline"
             >zde</a
-          >. 
-          
-  
+          >.
+
+
         </p>
 
         <h2 class="profile-section-subsubheadline">
@@ -993,10 +940,10 @@
             >čl. 6 odst. 1 písm. e) GDPR</a
           >. Navíc se jedná o zpřesňující údaj, který usnadní např. vyhledání
           soudce v obchodním rejstříku.
-          
-          
+
+
       <p class="pt-2">
-      
+
           Fotografie je uvedena pouze u soudců, kteří vykonávají či v minulosti vykonávali funkcionářskou funkci, tedy byli předsedou
           nebo místopředsedou soudu.
         </p>
