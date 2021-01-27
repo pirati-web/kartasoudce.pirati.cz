@@ -37,7 +37,7 @@
               činnosti a výsledcích.“</cite
             >
             <p class="hero-cite-author">
-              Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru
+              Jakub Michálek, místopředseda ústavně právního výboru
               PSP ČR
             </p>
           </div>
