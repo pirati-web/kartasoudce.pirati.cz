@@ -52,9 +52,10 @@
                       <a class="scrollactive-item" href="#salary">Plat</a>
                     </li>
                     <li class="profile-navbar-item" style="padding-top:2em">
-                      <NuxtLink class="scrollactive-item" to="/">Zpět na úvod</NuxtLink>
+                      <NuxtLink class="scrollactive-item" to="/"><i class="fa fa-arrow-circle-left"></i> Zpět na úvod</NuxtLink>
                     </li>                    
                   </ul>
+
                 </scrollactive>
               </affix>
             </aside>
