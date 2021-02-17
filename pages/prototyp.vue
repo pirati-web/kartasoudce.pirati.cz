@@ -5,7 +5,7 @@
         <section
           class="container container-resp text-center pt-8 pb-8 lg:pt-16 lg:pb-16"
         >
-          <h1 class="head-super text-3xl md:text-5xl">Prototyp statistik soudce</h1>
+          <h1 class="head-super text-3xl md:text-5xl">Prototyp statistiky soudce</h1>
           <p class="md:text-xl">
             Veřejné statistiky soudce mají zajistit, aby veřejnost měla základní
             informace o jednotlivých soudcích a jejich činnosti, jak si stojí, a
@@ -169,6 +169,174 @@
                   >dle metodiky</a
                 >.
               </p>
+
+
+              <h2 class="profile-section-subheadline">
+                Ústavním soudem potvrzená či ve sbírce rozhodnutí publikovaná
+                rozhodnutí
+              </h2>
+
+              <Decision
+                year="2007"
+                title="rozsudek OS Praha 1 ze dne 6. 3. 2007, sp. zn. 3 T 51/2006"
+                note="Rozhodnutí potvrzeno Ústavním soudem v usnesení sp. zn. IV.ÚS 3121/07"
+              >
+                <ul class="list-disc list-outside ml-5">
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1PvDHJ5AsXodbqH6j6tz4kJ0gdydmNozr/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >text rozsudku</a
+                    >
+                  </li>
+                </ul>
+              </Decision>
+
+
+              <h2 class="profile-section-subheadline">
+                Další významná rozhodnutí
+              </h2>
+
+              <Decision
+                year="2014"
+                title="Kauza armádního areálu v Břevnově – sp. zn. 3 T 93/2014"
+              >
+                <ul
+                  class="list-disc list-outside ml-5"
+                  status="pravomocně skončeno"
+                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=93&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
+                >
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/18mPFplSAQW9VetWj2wUSvq1cAlgahHpQ/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >rozsudek OS Praha 1 ze dne 21. 8. 2017</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1EWfron9qK8a00t6QVxDGRNVOwy8K5DFi/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >rozsudek MS Praha ze dne 1. 3. 2018</a
+                    >
+                  </li>
+                </ul>
+              </Decision>
+              <Decision
+                year="2012"
+                title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
+                proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
+              >
+                <ul class="list-disc list-outside ml-5">
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/18QLswUjz1Om5b4NL_26-nC-DR69Dajal/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >zprošťující rozsudek OS Praha 1 ze dne 3. 9. 2013</a
+                    >
+                    - statní zástupce se neodvolal
+                  </li>
+                </ul>
+              </Decision>
+              <Decision
+                year="1997"
+                title="Případ vydírání ze strany devíti pražských taxikářů v kauze Thorges"
+              >
+                <ul class="list-disc list-outside ml-5">
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1det8KQxtRhUuQNqDCWWTPk8YUVBPID84/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >odsuzující rozsudek OS Praha 1 ze dne 20. 6. 2002, sp.
+                      zn. 8 T 162/97</a
+                    >
+                    (J. C.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1vQ8q8GfiNGVLURlwp3vm2jMXq7_if4ej/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >odsuzující rozsudek OS Praha 1 ze dne 25. 2. 2004, sp.
+                      zn. 3 T 92/2002</a
+                    >
+                    (J. M.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1drJNuuKvr5CRUTsxdolYCo_1LPf2yrp8/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >odsuzující rozsudek OS Praha 1 ze dne 2. 12. 2004, , sp.
+                      zn. 3 T 41/2004</a
+                    >
+                    (J. S., M. B., J. H.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1hFEG1DEqMdNu_TgLYb977x0PVUAYyMvj/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >zrušující usnesení MS Praha ze dne 11. 5. 2005</a
+                    >
+                    (J. H., J. S., M. B.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1GaoFzQ52inBotPCF76f2BLTboPzB0SNf/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >odsuzující a zprošťující rozsudek OS Praha 1 ze dne 13.
+                      10. 2005, sp. zn. 3 T 41/2004</a
+                    >
+                    (J. S., J. H., M. B.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1LuBJbmerc8ed48wk7Z9Kcox-gszG84aY/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >zrušující usnesení MS Praha ze dne 26. 1. 2006</a
+                    >
+                    (J. S., J. H.)
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1-LFKFvgwJOTDxW7diI03MHpdeX9Xw1C9/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >zproštění J. S. a J. H. a odsouzení J. S. rozsudkem OS
+                      Praha 1 ze dne 13. 4. 2006, sp. zn. 3 T 34/2006</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://drive.google.com/file/d/1wwEnQvxSz1gtKa6UYnroiPvkJIw05rfQ/view"
+                      target="_blank"
+                      rel="noopener"
+                      class="underline"
+                      >změňující usnesení MS Praha ze dne 2. 11. 2006 (J. S.)</a
+                    >
+                    &mdash; snížení trestu
+                  </li>
+                </ul>
+              </Decision>
 
               <h2 class="profile-section-subheadline">
                 Kauzy, kdy bylo rozhodnutí opakovaně rušeno nadřízeným soudem
@@ -484,172 +652,6 @@
                     MS Praha ze dne 4. 4. 2017 &mdash; <strong
                       >rozhodnutí bylo zrušeno jako nezákonné a MS Praha zároveň
                       nařídil, aby byla věc projednána jiným soudcem</strong
-                    >
-                  </li>
-                </ul>
-              </Decision>
-
-              <h2 class="profile-section-subheadline">
-                Další významná rozhodnutí
-              </h2>
-
-              <Decision
-                year="2014"
-                title="Kauza armádního areálu v Břevnově – sp. zn. 3 T 93/2014"
-              >
-                <ul
-                  class="list-disc list-outside ml-5"
-                  status="pravomocně skončeno"
-                  proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=93&rocnik=2014&spamQuestion=23&agendaNc=CIVIL"
-                >
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/18mPFplSAQW9VetWj2wUSvq1cAlgahHpQ/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >rozsudek OS Praha 1 ze dne 21. 8. 2017</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1EWfron9qK8a00t6QVxDGRNVOwy8K5DFi/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >rozsudek MS Praha ze dne 1. 3. 2018</a
-                    >
-                  </li>
-                </ul>
-              </Decision>
-              <Decision
-                year="2012"
-                title="Kauza velvyslance v Austrálii – porušení povinnosti při správě cizího majetku – sp. zn. 3 T 73/2012"
-                proceedingsLink="http://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=OSPHA01&cisloSenatu=3&druhVec=T&bcVec=73&rocnik=2012&spamQuestion=23&agendaNc=CIVIL"
-              >
-                <ul class="list-disc list-outside ml-5">
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/18QLswUjz1Om5b4NL_26-nC-DR69Dajal/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zprošťující rozsudek OS Praha 1 ze dne 3. 9. 2013</a
-                    >
-                    - statní zástupce se neodvolal
-                  </li>
-                </ul>
-              </Decision>
-              <Decision
-                year="1997"
-                title="Případ vydírání ze strany devíti pražských taxikářů v kauze Thorges"
-              >
-                <ul class="list-disc list-outside ml-5">
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1det8KQxtRhUuQNqDCWWTPk8YUVBPID84/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >odsuzující rozsudek OS Praha 1 ze dne 20. 6. 2002, sp.
-                      zn. 8 T 162/97</a
-                    >
-                    (J. C.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1vQ8q8GfiNGVLURlwp3vm2jMXq7_if4ej/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >odsuzující rozsudek OS Praha 1 ze dne 25. 2. 2004, sp.
-                      zn. 3 T 92/2002</a
-                    >
-                    (J. M.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1drJNuuKvr5CRUTsxdolYCo_1LPf2yrp8/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >odsuzující rozsudek OS Praha 1 ze dne 2. 12. 2004, , sp.
-                      zn. 3 T 41/2004</a
-                    >
-                    (J. S., M. B., J. H.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1hFEG1DEqMdNu_TgLYb977x0PVUAYyMvj/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zrušující usnesení MS Praha ze dne 11. 5. 2005</a
-                    >
-                    (J. H., J. S., M. B.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1GaoFzQ52inBotPCF76f2BLTboPzB0SNf/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >odsuzující a zprošťující rozsudek OS Praha 1 ze dne 13.
-                      10. 2005, sp. zn. 3 T 41/2004</a
-                    >
-                    (J. S., J. H., M. B.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1LuBJbmerc8ed48wk7Z9Kcox-gszG84aY/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zrušující usnesení MS Praha ze dne 26. 1. 2006</a
-                    >
-                    (J. S., J. H.)
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1-LFKFvgwJOTDxW7diI03MHpdeX9Xw1C9/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >zproštění J. S. a J. H. a odsouzení J. S. rozsudkem OS
-                      Praha 1 ze dne 13. 4. 2006, sp. zn. 3 T 34/2006</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1wwEnQvxSz1gtKa6UYnroiPvkJIw05rfQ/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >změňující usnesení MS Praha ze dne 2. 11. 2006 (J. S.)</a
-                    >
-                    &mdash; snížení trestu
-                  </li>
-                </ul>
-              </Decision>
-
-              <h2 class="profile-section-subheadline">
-                Ústavním soudem potvrzená či ve sbírce rozhodnutí publikovaná
-                rozhodnutí
-              </h2>
-
-              <Decision
-                year="2007"
-                title="rozsudek OS Praha 1 ze dne 6. 3. 2007, sp. zn. 3 T 51/2006"
-                note="Rozhodnutí potvrzeno Ústavním soudem v usnesení sp. zn. IV.ÚS 3121/07"
-              >
-                <ul class="list-disc list-outside ml-5">
-                  <li>
-                    <a
-                      href="https://drive.google.com/file/d/1PvDHJ5AsXodbqH6j6tz4kJ0gdydmNozr/view"
-                      target="_blank"
-                      rel="noopener"
-                      class="underline"
-                      >text rozsudku</a
                     >
                   </li>
                 </ul>
