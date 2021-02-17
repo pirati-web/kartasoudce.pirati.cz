@@ -51,9 +51,8 @@
                     <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#salary">Plat</a>
                     </li>
-
                     <li class="profile-navbar-item">
-                      <NuxtLink class="scrollactive-item" to="/">Zpět na úvod</NuxtLink>
+                      <NuxtLink class="scrollactive-item" to="/"><i class="fa arrow-circle-left" /> Zpět na úvod</NuxtLink>
                     </li>                    
                   </ul>
                 </scrollactive>
