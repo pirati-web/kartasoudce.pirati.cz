@@ -141,9 +141,9 @@ export default {
     '@nuxtjs/tailwindcss'
   ],
   env: {
-    host: process.env.HOST || 'https://kartasoudce.pirati.cz',
+    host: process.env.HOST || 'https://statistikysoudce.pirati.cz',
     siteInfo: {
-      name: process.env.SITE_NAME || 'Karta soudce',
+      name: process.env.SITE_NAME || 'Statistiky soudce',
       claim: process.env.SITE_CLAIM || 'I justice může být více transparentní',
       email: process.env.SITE_EMAIL || 'info@pirati.cz',
       phone: process.env.SITE_PHONE,
