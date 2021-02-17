@@ -51,8 +51,8 @@
                     <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#salary">Plat</a>
                     </li>
-                    <li class="profile-navbar-item">
-                      <NuxtLink class="scrollactive-item" to="/"><i class="fa arrow-circle-left" /> Zpět na úvod</NuxtLink>
+                    <li class="profile-navbar-item" style="padding-top:2em">
+                      <NuxtLink class="scrollactive-item" to="/">Zpět na úvod</NuxtLink>
                     </li>                    
                   </ul>
                 </scrollactive>
@@ -152,42 +152,7 @@
                 >.
               </p>
             </section>
-            <section class="profile-section">
-              <h1 id="disciplinary-offenses" class="profile-section-headline">
-                Kárná provinění
-              </h1>
-              <p class="profile-section-note">
-                <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
-                uváděna pouze taková kárná rozhodnutí, která ukládají kárné
-                opatření a nedošlo k jejich zahlazení dle
-                <a
-                  href="https://www.zakonyprolidi.cz/cs/2002-7#p24"
-                  class="underline"
-                  >§ 24</a
-                >
-                zákona o řízení ve věcech soudců a státních zástupců.
-              </p>
-              <DisciplinaryOffense
-                year="2018"
-                link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
-              >
-                <a
-                  href="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
-                  target="_blank"
-                  rel="noopener"
-                  class="underline"
-                  ><strong class="head-main text-xl"
-                    >sp. zn. 16 Kss 7/2017</strong
-                  ></a
-                >
-                &mdash; na základě kárné žaloby ministra spravedlnosti JUDr.
-                Roberta Pelikána, Ph.D., uznána Nejvyšším správním soudem
-                vinnou, že z nedbalosti v rozporu se závaznými právními názory
-                odvolacího soudu hodnotila důkazy způsobem jsoucím v extrémním
-                rozporu s rozumným myšlením, za což jí bylo uloženo kárné
-                opatření ve formě snížení platu o 15 % na dobu 1 roku.
-              </DisciplinaryOffense>
-            </section>
+
             <section class="profile-section">
               <h1 id="major-decisions" class="profile-section-headline">
                 Významná rozhodnutí
@@ -726,6 +691,42 @@
                 />
               </div>
             </section>
+            <section class="profile-section">
+              <h1 id="disciplinary-offenses" class="profile-section-headline">
+                Kárná provinění
+              </h1>
+              <p class="profile-section-note">
+                <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
+                uváděna pouze taková kárná rozhodnutí, která ukládají kárné
+                opatření a nedošlo k jejich zahlazení dle
+                <a
+                  href="https://www.zakonyprolidi.cz/cs/2002-7#p24"
+                  class="underline"
+                  >§ 24</a
+                >
+                zákona o řízení ve věcech soudců a státních zástupců.
+              </p>
+              <DisciplinaryOffense
+                year="2018"
+                link="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+              >
+                <a
+                  href="https://drive.google.com/file/d/1FiaNP3oT3BkQhFhxLRxuclKJmP8k2W14/view"
+                  target="_blank"
+                  rel="noopener"
+                  class="underline"
+                  ><strong class="head-main text-xl"
+                    >sp. zn. 16 Kss 7/2017</strong
+                  ></a
+                >
+                &mdash; na základě kárné žaloby ministra spravedlnosti JUDr.
+                Roberta Pelikána, Ph.D., uznána Nejvyšším správním soudem
+                vinnou, že z nedbalosti v rozporu se závaznými právními názory
+                odvolacího soudu hodnotila důkazy způsobem jsoucím v extrémním
+                rozporu s rozumným myšlením, za což jí bylo uloženo kárné
+                opatření ve formě snížení platu o 15 % na dobu 1 roku.
+              </DisciplinaryOffense>
+            </section>            
             <section class="profile-section">
               <h1 id="published-works" class="profile-section-headline">
                 Publikační činnost
