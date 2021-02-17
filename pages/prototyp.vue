@@ -32,11 +32,6 @@
                       <a class="scrollactive-item" href="#major-decisions"
                         >Významná rozhodnutí</a
                       >
-                      <ul style="font-size:60%;padding:10px 20px">
-                        <li>Ústavním soudem potvrzená či ve sbírce rozhodnutí publikovaná rozhodnutí</li>
-                        <li>Další významná rozhodnutí</li>
-                        <li>Kauzy, kdy bylo rozhodnutí opakovaně rušeno nadřízeným soudem</li>
-                      </ul>
                     </li>
                     <li class="profile-navbar-item">
                       <a class="scrollactive-item" href="#decision-speed"
@@ -120,9 +115,9 @@
                   </div>
                   <div class="personal-data-item">
                     <div class="personal-data-label">Členství v KSČ:
-
-                      i) Ústavní soud v nálezu ze dne 8. 11. 2011, sp. zn. IV. ÚS 1642/11 rozhodl, že členství soudců v bývalé KSČ je veřejná informace
-
+                      <p class="profile-section-note" style="font-weight:normal; font-size:60%;padding-right:1em">
+                        <i class="fa fa-info-circle" /> Ústavní soud v nálezu ze dne 8. 11. 2011, sp. zn. IV. ÚS 1642/11 rozhodl, že členství soudců v bývalé KSČ je veřejná informace
+                      </p>
                     </div>
                     <div class="personal-data-value">
                       Před rokem 1989 byla členkou KSČ. Vystoupila v lednu 1990. 
@@ -138,10 +133,11 @@
                     alt="JUDr. Helena Králová, Zdroj: ČTK/Zehl Igor"
                     class="rounded max-w-full"
                   />
-                  <p class="text-sm pt-1">Zdroj: ČTK/Zehl Igor</p>
-                  
-                  i) Fotografie je uvedena pouze u soudců, kteří vykonávají či v minulosti vykonávali 
-                  funkcionářskou funkci, tedy byli předsedou nebo místopředsedou soudu.
+                  <p class="text-sm pt-1">Zdroj: ČTK/Zehl Igor</p>                  
+                  <p class="profile-section-note" style="font-weight:normal; font-size:60%">
+                    <i class="fa fa-info-circle" /> Fotografie je uvedena pouze u soudců, kteří vykonávají či v minulosti vykonávali 
+              funkcionářskou funkci, tedy byli předsedou nebo místopředsedou soudu.
+                  </p>
 
                 </div>
               </div>

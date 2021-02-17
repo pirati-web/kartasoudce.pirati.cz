@@ -51,7 +51,7 @@
         <section
           class="container container-resp text-center pt-8 pb-8 lg:pt-16 lg:pb-16"
         >
-          <h1 class="head-super text-3xl md:text-5xl">O webu statistika soudce</h1>
+          <h1 class="head-super text-3xl md:text-5xl">O webu statistiky soudce</h1>
           <p class="md:text-xl">
             Veřejné statistiky soudce mají zajistit, aby veřejnost měla základní
             informace o jednotlivých soudcích a jejich činnosti, jak si stojí, a
