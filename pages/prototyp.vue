@@ -5,9 +5,9 @@
         <section
           class="container container-resp text-center pt-8 pb-8 lg:pt-16 lg:pb-16"
         >
-          <!-- <h1 class="head-super text-3xl md:text-5xl"></h1>-->
+          <h1 class="head-super text-3xl md:text-5xl">Prototyp statistik soudce</h1>
           <p class="md:text-xl">
-            Veřejná karta soudce má zajistit, aby veřejnost měla základní
+            Veřejné statistiky soudce mají zajistit, aby veřejnost měla základní
             informace o jednotlivých soudcích a jejich činnosti, jak si stojí, a
             to i v porovnání s ostatními soudci v rámci jedné agendy jednoho
             soudu. K dispozici jsou základní údaje o daném soudci, statistiky o
