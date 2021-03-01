@@ -696,10 +696,10 @@
             </section>
             <section class="profile-section">
               <h1 id="disciplinary-offenses" class="profile-section-headline">
-                Kárná provinění
+                Kárná řízení
               </h1>
               <p class="profile-section-note">
-                <i class="fa fa-info-circle" /> V sekci kárná provinění jsou
+                <i class="fa fa-info-circle" /> V sekci kárná řízení jsou
                 uváděna pouze taková kárná rozhodnutí, která ukládají kárné
                 opatření a nedošlo k jejich zahlazení dle
                 <a
