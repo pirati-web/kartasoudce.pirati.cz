@@ -32,7 +32,7 @@
               class="hero-cite-face"
             />-->
             <cite class="hero-cite-claim">
-              „Web statistiky soudce má zajistit transparentnější justici, aby měla veřejnost přehled o základních informacích o soudcích a o jejich činnosti a výsledcích.“
+              „Statistiky soudce mají zajistit transparentnější justici, aby měla veřejnost přehled o základních informacích o soudcích a o jejich činnosti a výsledcích.“
               </cite>
             <p class="hero-cite-author">
               Jakub Michálek, místopředseda ústavně právního výboru PSP ČR
