@@ -32,10 +32,10 @@
               class="hero-cite-face"
             />-->
             <cite class="hero-cite-claim">
-              „Statistiky soudce mají zajistit transparentnější justici, aby měla veřejnost přehled o základních informacích o soudcích a o jejich činnosti a výsledcích.“
+              „Statistiky soudce mají zajistit transparentní justici, aby veřejnost měla přehled o základních informacích o soudcích a o jejich činnosti a výsledcích.“
               </cite>
             <p class="hero-cite-author">
-              Jakub Michálek, místopředseda ústavně právního výboru PSP ČR
+              Jakub Michálek, místopředseda Ústavně právního výboru Poslanecké sněmovny
             </p>
           </div>
           <a
@@ -53,11 +53,10 @@
         >
           <h1 class="head-super text-3xl md:text-5xl">O webu statistiky soudce</h1>
           <p class="md:text-xl">
-            Veřejné statistiky soudce mají zajistit, aby veřejnost měla základní
-            informace o jednotlivých soudcích a jejich činnosti, jak si stojí, a
+            Veřejné statistiky soudce zajistí veřejnosti možnost mít přehled o jednotlivých soudcích, jejich činnosti, jak si stojí, a
             to i v porovnání s ostatními soudci v rámci jedné agendy jednoho
             soudu. K dispozici jsou základní údaje o daném soudci, statistiky o
-            rychlosti jeho rozhodování, jím vydaná významná rozhodnutí a i
+            rychlosti jeho rozhodování, jím vydaná významná rozhodnutí i
             případná kárná rozhodnutí o jeho osobě.
           </p>
         </section>
