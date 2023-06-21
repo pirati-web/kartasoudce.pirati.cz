@@ -18,7 +18,7 @@
     "chart.js": "^2.8.0",
     "chartjs-plugin-deferred": "^1.0.1",
     "jimp": "^0.8.4",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "responsive-loader": "^1.2.0",
     "v-tooltip": "^2.0.2",
     "vue-affix": "^0.5.2",
